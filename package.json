@@ -10,7 +10,7 @@
     "node": "18.x"
   },
   "dependencies": {
-    "playwright": "^1.44.0",
+    "playwright": "1.54.1",
     "express": "^4.18.2"
   }
 }
