@@ -1,38 +1,32 @@
 import express from "express";
-import { chromium as baseChromium } from "playwright-extra";
-import StealthPlugin from "playwright-extra-plugin-stealth";
+import puppeteer from "puppeteer-extra";
+import StealthPlugin from "puppeteer-extra-plugin-stealth";
+
+puppeteer.use(StealthPlugin());
 
 const app = express();
 app.use(express.json());
 
-// Apply stealth plugin
-baseChromium.use(StealthPlugin());
-
 app.get("/crawl", async (req, res) => {
   const url = req.query.url;
-
-  if (!url) {
-    return res.status(400).json({ error: "Missing URL in query parameters" });
-  }
+  if (!url) return res.status(400).json({ error: "Missing URL" });
 
   let browser;
   try {
-    browser = await baseChromium.launch({
+    browser = await puppeteer.launch({
       headless: true,
-      args: ["--no-sandbox", "--disable-setuid-sandbox"],
+      args: [
+        "--no-sandbox",
+        "--disable-setuid-sandbox",
+        "--disable-dev-shm-usage",
+        "--disable-gpu",
+        "--window-size=1920x1080",
+      ],
     });
 
     const page = await browser.newPage();
-
-    // Spoof user agent and viewport
-    await page.setUserAgent(
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-    );
-    await page.setViewportSize({ width: 1280, height: 720 });
-
-    await page.goto(url, { waitUntil: "networkidle", timeout: 60000 });
-
-    await page.waitForSelector("table", { timeout: 20000 });
+    await page.goto(url, { waitUntil: "load", timeout: 60000 });
+    await page.waitForSelector("table", { timeout: 10000 });
 
     const tables = await page.$$eval("table", (tables) =>
       tables.map((table) => {
@@ -52,11 +46,9 @@ app.get("/crawl", async (req, res) => {
   } catch (err) {
     console.error("Crawler error:", err);
     if (browser) await browser.close();
-
-    res.status(500).json({
-      error: "Failed to extract tables",
-      details: err.message,
-    });
+    res
+      .status(500)
+      .json({ error: "Failed to extract tables", details: err.message });
   }
 });
 
