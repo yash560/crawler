@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 app.get("/crawl", async (req, res) => {
-  const url = req.query.url as string;
+  const url = req.query.url;
 
   if (!url) {
     return res.status(400).json({ error: "Missing URL in query parameters" });
