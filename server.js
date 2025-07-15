@@ -15,7 +15,8 @@ app.get("/crawl", async (req, res) => {
   try {
     browser = await chromium.launch();
     const page = await browser.newPage();
-    await page.goto(url, { waitUntil: "networkidle" });
+    await page.goto(url, { waitUntil: "load", timeout: 60000 });
+    await page.waitForSelector("table", { timeout: 10000 });
 
     const tables = await page.$$eval("table", (tables) =>
       tables.map((table) => {
