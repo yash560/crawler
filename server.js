@@ -4,11 +4,11 @@ import { chromium } from "playwright";
 const app = express();
 app.use(express.json());
 
-app.post("/crawl", async (req, res) => {
-  const { url } = req.body;
+app.get("/crawl", async (req, res) => {
+  const url = req.query.url as string;
 
   if (!url) {
-    return res.status(400).json({ error: "Missing URL in request body" });
+    return res.status(400).json({ error: "Missing URL in query parameters" });
   }
 
   let browser;
