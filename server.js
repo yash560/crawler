@@ -28,7 +28,7 @@ app.get("/crawl/freida", async (req, res) => {
     await page.goto(url, { waitUntil: "load", timeout: 60000 });
 
     let tables = [];
-    await page.waitForSelector("table", { timeout: 10000 });
+    await page.waitForSelector("table", { timeout: 30000 });
 
     const hasTables = await page.$("table");
     if (hasTables) {
