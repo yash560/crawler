@@ -2,7 +2,7 @@ import axios from "axios";
 
 export const postFinalData = async (finalObj) => {
   await axios.post(
-    "https://webverse.thewebvale.com/api/data?collection=programs-new",
+    "https://webverse.thewebvale.com/api/data?collection=programs-2",
     finalObj,
     {
       headers: {

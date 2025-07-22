@@ -1,5 +1,5 @@
 import express from "express";
-import programs from "../payload/programs.json" assert { type: "json" };
+import programs from "../payload/programs2.json" assert { type: "json" };
 import axios from "axios";
 
 const router = express.Router();

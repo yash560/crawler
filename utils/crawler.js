@@ -10,6 +10,8 @@ export const crawlProgramPages = async (id) => {
     `https://freida.ama-assn.org/program/${id}/features-benefits`,
   ];
 
+  console.log(`\n📄 Starting crawl for ID: ${id}`);
+
   const browser = await puppeteer.launch({
     headless: true,
     args: [
@@ -22,48 +24,73 @@ export const crawlProgramPages = async (id) => {
   let allTables = [];
 
   for (const url of urls) {
+    console.log(`➡️ Visiting URL: ${url}`);
     const page = await browser.newPage();
-    await page.goto(url, { waitUntil: "load", timeout: 180000 });
 
-    // Extract tables, extraData, and charts from the page
-    const tables = await extractTables(page);
-    const extraData = await extractExtraData(page);
-    const chartData = await extractCharts(page);
+    try {
+      await page.goto(url, { waitUntil: "load", timeout: 60000 });
+      console.log(`✅ Page loaded: ${url}`);
 
-    allTables.push(
-      ...(tables || []),
-      ...(extraData || []),
-      ...(chartData || [])
-    );
+      // Extract tables
+      console.log("   📋 Extracting tables...");
+      const tables = await extractTables(page);
+      console.log(`   ✅ Found ${tables?.length || 0} tables`);
 
-    await page.close();
+      // Extract extra data
+      console.log("   🧩 Extracting extra data...");
+      const extraData = await extractExtraData(page);
+      console.log(`   ✅ Found ${extraData?.length || 0} extra sections`);
+
+      // Extract charts
+      console.log("   📊 Extracting chart data...");
+      const chartData = await extractCharts(page);
+      console.log(`   ✅ Found ${chartData?.length || 0} charts`);
+
+      // Push all
+      allTables.push(
+        ...(tables || []),
+        ...(extraData || []),
+        ...(chartData || [])
+      );
+    } catch (err) {
+      console.error(`❌ Error scraping ${url}:`, err.message);
+    } finally {
+      await page.close();
+    }
   }
 
   await browser.close();
+  console.log(`🎯 Total extracted tables for ID ${id}: ${allTables.length}\n`);
   return allTables;
 };
 
 const extractTables = async (page) => {
-  await page.waitForSelector("table", { timeout: 30000 }).catch(() => {});
-  const hasTables = await page.$("table");
-  if (!hasTables) return [];
+  try {
+    await page.waitForSelector("table", { timeout: 30000 }).catch(() => {});
+    const hasTables = await page.$("table");
+    if (!hasTables) return [];
 
-  return await page.$$eval("table", (tables) =>
-    tables.map((table) => {
-      const caption = table.querySelector("caption")?.innerText.trim() || null;
-      const rows = Array.from(table.querySelectorAll("tr")).map((tr) =>
-        Array.from(tr.querySelectorAll("td, th")).map((td) =>
-          td.textContent.trim()
-        )
-      );
-      return { caption, rows };
-    })
-  );
+    return await page.$$eval("table", (tables) =>
+      tables.map((table) => {
+        const caption =
+          table.querySelector("caption")?.innerText.trim() || null;
+        const rows = Array.from(table.querySelectorAll("tr")).map((tr) =>
+          Array.from(tr.querySelectorAll("td, th")).map((td) =>
+            td.textContent.trim()
+          )
+        );
+        return { caption, rows };
+      })
+    );
+  } catch (err) {
+    console.error("❌ extractTables error:", err.message);
+    return [];
+  }
 };
 
 const extractExtraData = async (page) => {
-  return await page.evaluate(() => {
-    try {
+  try {
+    return await page.evaluate(() => {
       const sections = [
         { key: "programDirector", label: "Program Director:" },
         {
@@ -148,10 +175,11 @@ const extractExtraData = async (page) => {
       }
 
       return results;
-    } catch {
-      return [];
-    }
-  });
+    });
+  } catch (err) {
+    console.error("❌ extractExtraData error:", err.message);
+    return [];
+  }
 };
 
 const extractCharts = async (page) => {
@@ -159,10 +187,10 @@ const extractCharts = async (page) => {
   const tables = [];
 
   for (const chartId of chartIds) {
-    const chartHandle = await page.$(chartId);
-    if (!chartHandle) continue;
-
     try {
+      const chartHandle = await page.$(chartId);
+      if (!chartHandle) continue;
+
       await page.waitForSelector(`${chartId} .apexcharts-datalabel`, {
         timeout: 5000,
       });
@@ -195,7 +223,9 @@ const extractCharts = async (page) => {
       }, chartId);
 
       if (chartData) tables.push(chartData);
-    } catch {}
+    } catch (err) {
+      console.error(`❌ extractCharts error (${chartId}):`, err.message);
+    }
   }
 
   return tables;
