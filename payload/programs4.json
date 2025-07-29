@@ -1,0 +1,5498 @@
+[
+  {
+    "State": "Alabama",
+    "City": "Birmingham",
+    "Program Name": "Baptist Health Program",
+    "Accreditation ID": 1400121020,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Birmingham",
+    "Program Name": "University of Alabama Medical Center (Birmingham) Program",
+    "Accreditation ID": 1400121022,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Dothan",
+    "Program Name": "Health Education Services/Flowers Hospital Program",
+    "Accreditation ID": 1400100002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Dothan",
+    "Program Name": "Southeast Health Program",
+    "Accreditation ID": 1400100900,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Fairhope",
+    "Program Name": "Thomas Hospital Program",
+    "Accreditation ID": 1400100902,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Florence",
+    "Program Name": "North Alabama Medical Center Program",
+    "Accreditation ID": 1400100901,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Huntsville",
+    "Program Name": "Health Education Services/Crestwood Medical Center Program",
+    "Accreditation ID": 1400100001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Huntsville",
+    "Program Name": "University of Alabama Hospital (Huntsville) Program",
+    "Accreditation ID": 1400100893,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Mobile",
+    "Program Name": "Mobile Infirmary Medical Center Program",
+    "Accreditation ID": 1400100003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Mobile",
+    "Program Name": "USA Health Program",
+    "Accreditation ID": 1400111024,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Montgomery",
+    "Program Name": "University of Alabama Medical Center (Montgomery) Program",
+    "Accreditation ID": 1400121447,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Alabama",
+    "City": "Opelika",
+    "Program Name": "East Alabama Medical Center Program",
+    "Accreditation ID": 1400100903,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Chandler",
+    "Program Name": "Creighton University East Valley Arizona Program",
+    "Accreditation ID": 1400300001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Cottonwood",
+    "Program Name": "Midwestern University GME Consortium / Verde Valley Program",
+    "Accreditation ID": 1400300539,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Glendale",
+    "Program Name": "Abrazo Health Network Program",
+    "Accreditation ID": 1400300541,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Mesa",
+    "Program Name": "HonorHealth/Graduate Medical Education Consortium/Mountain Vista",
+    "Accreditation ID": 1400300538,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Mesa",
+    "Program Name": "University of Arizona College of Medicine - Phoenix/Banner Desert Program",
+    "Accreditation ID": 1400300006,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Phoenix",
+    "Program Name": "Creighton University School of Medicine (Phoenix) Program",
+    "Accreditation ID": 1400311027,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Phoenix",
+    "Program Name": "University of Arizona College of Medicine-Phoenix Preliminary Program",
+    "Accreditation ID": 1400321025,
+    "Status": "Not Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Phoenix",
+    "Program Name": "University of Arizona College of Medicine-Phoenix Program",
+    "Accreditation ID": 1400321025,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Scottsdale",
+    "Program Name": "HonorHealth Program",
+    "Accreditation ID": 1400300537,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Scottsdale",
+    "Program Name": "Mayo Clinic College of Medicine and Science (Arizona) Program",
+    "Accreditation ID": 1400321512,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Sierra Vista",
+    "Program Name": "Midwestern University GME Consortium / Canyon Vista Program",
+    "Accreditation ID": 1400300540,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Sun City West",
+    "Program Name": "University of Arizona College of Medicine - Phoenix/Banner Del Webb Program",
+    "Accreditation ID": 1400300007,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Tucson",
+    "Program Name": "Health Education Services/Northwest Healthcare (Tucson) Program",
+    "Accreditation ID": 1400300004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Tucson",
+    "Program Name": "TMC Health Medical Education Program, Inc. (THMEP) Program",
+    "Accreditation ID": 1400300003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arizona",
+    "City": "Tucson",
+    "Program Name": "University of Arizona College of Medicine-Tucson Program",
+    "Accreditation ID": 1400321029,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Batesville",
+    "Program Name": "White River Health System Program",
+    "Accreditation ID": 1400400925,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Conway",
+    "Program Name": "Conway Regional Health System Program",
+    "Accreditation ID": 1400400001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Fayetteville",
+    "Program Name": "University of Arkansas for Medical Sciences (UAMS) College of Medicine (Northwest) Program",
+    "Accreditation ID": 1400400924,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Fayetteville",
+    "Program Name": "University of Arkansas for Medical Sciences Regional Centers",
+    "Accreditation ID": 1400400003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Fort Smith",
+    "Program Name": "Arkansas College of Osteopathic Medicine/Mercy Program",
+    "Accreditation ID": 1400400002,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Hot Springs",
+    "Program Name": "CHI St. Vincent - Hot Springs Program",
+    "Accreditation ID": 1400400929,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Jonesboro",
+    "Program Name": "Baptist Memorial Medical Education (Jonesboro) Program",
+    "Accreditation ID": 1400400926,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Jonesboro",
+    "Program Name": "St. Bernards Medical Center Program",
+    "Accreditation ID": 1400400541,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Little Rock",
+    "Program Name": "University of Arkansas for Medical Sciences (UAMS) College of Medicine Program",
+    "Accreditation ID": 1400421030,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "North Little Rock",
+    "Program Name": "Baptist Health - UAMS Program",
+    "Accreditation ID": 1400400928,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Searcy",
+    "Program Name": "Unity Health-White County Medical Center Program",
+    "Accreditation ID": 1400400927,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Anaheim",
+    "Program Name": "Prime West Consortium/West Anaheim Medical Center Program",
+    "Accreditation ID": 1400500922,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Apple Valley",
+    "Program Name": "Providence St. Mary Medical Center Program",
+    "Accreditation ID": 1400500012,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Bakersfield",
+    "Program Name": "Kern Medical Center Program",
+    "Accreditation ID": 1400531031,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Bakersfield",
+    "Program Name": "Morehouse School of Medicine/Bakersfield Memorial Hospital Program",
+    "Accreditation ID": 1400500013,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Bakersfield",
+    "Program Name": "Adventist Health Central California Network (Bakersfield) Program",
+    "Accreditation ID": 1400500018,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Carmichael",
+    "Program Name": "St Joseph's Medical Center Program (Mercy San Juan Medical Center)",
+    "Accreditation ID": 1400500015,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Colton",
+    "Program Name": "Arrowhead Regional Medical Center Program",
+    "Accreditation ID": 1400500915,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Daly City",
+    "Program Name": "North East Medical Services Program",
+    "Accreditation ID": 1400500925,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Fontana",
+    "Program Name": "Kaiser Permanente Southern California (Inland Empire) Program",
+    "Accreditation ID": 1400500902,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "French Camp",
+    "Program Name": "San Joaquin General Hospital Program",
+    "Accreditation ID": 1400512069,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Fresno",
+    "Program Name": "St. Agnes Medical Center (Fresno) Program",
+    "Accreditation ID": 1400500923,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Fresno",
+    "Program Name": "United Health Centers of the San Joaquin Valley Program  New Program!",
+    "Accreditation ID": 1400500019,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Fresno",
+    "Program Name": "University of California (San Francisco)/Fresno Program",
+    "Accreditation ID": 1400531033,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Hemet",
+    "Program Name": "KPC Health Program",
+    "Accreditation ID": 1400500919,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Inglewood",
+    "Program Name": "Prime West Consortium/Centinela Hospital Medical Center Program",
+    "Accreditation ID": 1400500005,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "La Jolla",
+    "Program Name": "Scripps Clinic/Scripps Green Hospital Program",
+    "Accreditation ID": 1400521490,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Loma Linda",
+    "Program Name": "Loma Linda University Health Education Consortium Program",
+    "Accreditation ID": 1400521038,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Long Beach",
+    "Program Name": "College Medical Center Program",
+    "Accreditation ID": 1400500921,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Long Beach",
+    "Program Name": "St Mary Medical Center Program",
+    "Accreditation ID": 1400531039,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Program Name": "Adventist Health White Memorial Program",
+    "Accreditation ID": 1400511049,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Program Name": "Cedars-Sinai Medical Center Program",
+    "Accreditation ID": 1400511040,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Program Name": "Charles R Drew University of Medicine and Science, College of Medicine Program",
+    "Accreditation ID": 1400500930,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Program Name": "Kaiser Permanente Southern California (Los Angeles) Program",
+    "Accreditation ID": 1400512042,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Program Name": "Keck School of Medicine of USC Program  New Program!",
+    "Accreditation ID": 1400500020,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Program Name": "Martin Luther King, Jr. Community Hospital Program",
+    "Accreditation ID": 1400500003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Program Name": "Olive View/UCLA Medical Center Program",
+    "Accreditation ID": 1400521047,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Program Name": "UCLA David Geffen School of Medicine/UCLA Medical Center Program",
+    "Accreditation ID": 1400511046,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Program Name": "University of Southern California/LAC+USC Medical Center Program",
+    "Accreditation ID": 1400521044,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Lynwood",
+    "Program Name": "Prime West Consortium/St. Francis Medical Center Program  New Program!",
+    "Accreditation ID": 1400500021,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Modesto",
+    "Program Name": "Sutter Health/Memorial Medical Center Program",
+    "Accreditation ID": 1400500010,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Moreno Valley",
+    "Program Name": "Riverside University Health System Program",
+    "Accreditation ID": 1400500002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Moreno Valley",
+    "Program Name": "University of California Riverside School of Medicine Program",
+    "Accreditation ID": 1400500903,
+    "Status": "Not Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Murrieta",
+    "Program Name": "Loma Linda University Medical Center – Murrieta Program",
+    "Accreditation ID": 1400500008,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Oakland",
+    "Program Name": "Alameda Health System-Highland Hospital Program",
+    "Accreditation ID": 1400531051,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Oakland",
+    "Program Name": "Kaiser Permanente Northern California (Oakland) Program",
+    "Accreditation ID": 1400512052,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Oakland",
+    "Program Name": "Sutter Health/Alta Bates Summit Medical Center Program",
+    "Accreditation ID": 1400500011,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Orange",
+    "Program Name": "University of California (Irvine) Program",
+    "Accreditation ID": 1400521036,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Palm Springs",
+    "Program Name": "Desert Regional Medical Center Program",
+    "Accreditation ID": 1400500016,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Palmdale",
+    "Program Name": "Southwest Healthcare Medical Education Consortium Program",
+    "Accreditation ID": 1400500014,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Pasadena",
+    "Program Name": "Huntington Memorial Hospital Program",
+    "Accreditation ID": 1400511056,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Porterville",
+    "Program Name": "Sierra View Medical Center Program",
+    "Accreditation ID": 1400500933,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Rancho Mirage",
+    "Program Name": "Eisenhower Medical Center Program",
+    "Accreditation ID": 1400500895,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Redding",
+    "Program Name": "Prime West Consortium Program",
+    "Accreditation ID": 1400500006,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Riverside",
+    "Program Name": "HCA Healthcare Riverside Program",
+    "Accreditation ID": 1400500917,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Roseville",
+    "Program Name": "Sutter Health/Sutter Roseville Medical Center Program",
+    "Accreditation ID": 1400500004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Sacramento",
+    "Program Name": "University of California Davis Health Program",
+    "Accreditation ID": 1400521032,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "San Bernardino",
+    "Program Name": "University of California Riverside School of Medicine/St. Bernardine Medical Center - Dignity Health Program",
+    "Accreditation ID": 1400500001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Program Name": "San Ysidro Health Program",
+    "Accreditation ID": 1400500929,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Program Name": "Scripps Mercy Hospital Program",
+    "Accreditation ID": 1400511057,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Program Name": "University of California (San Diego) Medical Center Program",
+    "Accreditation ID": 1400521058,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco",
+    "Program Name": "Kaiser Permanente Northern California (San Francisco) Program",
+    "Accreditation ID": 1400512060,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco",
+    "Program Name": "Sutter Health/California Pacific Medical Center",
+    "Accreditation ID": 1400512062,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco",
+    "Program Name": "UCSF Health – St. Mary`s Hospital Program",
+    "Accreditation ID": 1400522063,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco",
+    "Program Name": "University of California (San Francisco) Program",
+    "Accreditation ID": 1400521064,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "San Jose",
+    "Program Name": "Santa Clara Valley Medical Center Program",
+    "Accreditation ID": 1400531065,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Santa Barbara",
+    "Program Name": "Santa Barbara Cottage Hospital Program",
+    "Accreditation ID": 1400522066,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Santa Clara",
+    "Program Name": "Kaiser Permanente Northern California (Santa Clara) Program",
+    "Accreditation ID": 1400521067,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Stanford",
+    "Program Name": "Stanford Health Care-Sponsored Stanford University Program",
+    "Accreditation ID": 1400521068,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Stockton",
+    "Program Name": "St Joseph's Medical Center Program",
+    "Accreditation ID": 1400500928,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Temecula",
+    "Program Name": "Southwest Healthcare Medical Education Consortium Program",
+    "Accreditation ID": 1400500927,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Thousand Oaks",
+    "Program Name": "HCA Healthcare/Los Robles Regional Medical Center Program",
+    "Accreditation ID": 1400500931,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Torrance",
+    "Program Name": "Los Angeles County-Harbor-UCLA Medical Center Program",
+    "Accreditation ID": 1400511070,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Tulare",
+    "Program Name": "Adventist Health Central California Network (Tulare) Program",
+    "Accreditation ID": 1400500009,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Upland",
+    "Program Name": "OPTI West - San Antonio Regional Hospital Program",
+    "Accreditation ID": 1400500017,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Ventura",
+    "Program Name": "Community Memorial Health System Program",
+    "Accreditation ID": 1400500920,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "California",
+    "City": "Victorville",
+    "Program Name": "Prime West Consortium/Desert Valley Hospital Program",
+    "Accreditation ID": 1400500932,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Colorado",
+    "City": "Aurora",
+    "Program Name": "University of Colorado Program",
+    "Accreditation ID": 1400721073,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Colorado",
+    "City": "Denver",
+    "Program Name": "Saint Joseph Hospital Program",
+    "Accreditation ID": 1400731072,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Colorado",
+    "City": "Lone Tree",
+    "Program Name": "HCA HealthONE Program",
+    "Accreditation ID": 1400700075,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Colorado",
+    "City": "Pueblo",
+    "Program Name": "Parkview Medical Center Program  Osteopathic Recognized!",
+    "Accreditation ID": 1400700074,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Bridgeport",
+    "Program Name": "Bridgeport Hospital/Yale University Program",
+    "Accreditation ID": 1400811074,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Bridgeport",
+    "Program Name": "Quinnipiac University Frank H. Netter MD School of Medicine/St VIncent's Medical Center Program",
+    "Accreditation ID": 1400811075,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Danbury",
+    "Program Name": "Connecticut Institute For Communities/Greater Danbury Community Health Center (Primary Care) Program",
+    "Accreditation ID": 1400800908,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Danbury",
+    "Program Name": "Nuvance Health Consortium (Danbury Hospital) Program",
+    "Accreditation ID": 1400811076,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Derby",
+    "Program Name": "Griffin Hospital Program",
+    "Accreditation ID": 1400831077,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Farmington",
+    "Program Name": "University of Connecticut (New Britain) Program",
+    "Accreditation ID": 1400821499,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Farmington",
+    "Program Name": "University of Connecticut Program  Osteopathic Recognized!",
+    "Accreditation ID": 1400831078,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Greenwich",
+    "Program Name": "Greenwich Hospital/Yale University Program",
+    "Accreditation ID": 1400821079,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "New Haven",
+    "Program Name": "Yale-New Haven Medical Center (Primary Care) Program",
+    "Accreditation ID": 1400821496,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "New Haven",
+    "Program Name": "Yale-New Haven Medical Center Program",
+    "Accreditation ID": 1400821085,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Norwalk",
+    "Program Name": "Nuvance Health Consortium (Norwalk Hospital/Yale University) Program",
+    "Accreditation ID": 1400831086,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Stamford",
+    "Program Name": "Stamford Hospital/Columbia University College of Physicians and Surgeons Program",
+    "Accreditation ID": 1400811087,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Waterbury",
+    "Program Name": "St Mary's Hospital (Waterbury) Program",
+    "Accreditation ID": 1400813530,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Waterbury",
+    "Program Name": "Yale-New Haven Medical Center (Waterbury) Program",
+    "Accreditation ID": 1400800910,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Delaware",
+    "City": "Dover",
+    "Program Name": "Bayhealth Medical Center Program",
+    "Accreditation ID": 1400900091,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Delaware",
+    "City": "Newark",
+    "Program Name": "Sidney Kimmel Medical College at Thomas Jefferson University/Christiana Care Health Services Program",
+    "Accreditation ID": 1400911090,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "District of Columbia",
+    "City": "Washington",
+    "Program Name": "George Washington University Program",
+    "Accreditation ID": 1401021093,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "District of Columbia",
+    "City": "Washington",
+    "Program Name": "Howard University Program",
+    "Accreditation ID": 1401021461,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "District of Columbia",
+    "City": "Washington",
+    "Program Name": "MedStar Health Georgetown University/Georgetown Hospital Program",
+    "Accreditation ID": 1401021091,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "District of Columbia",
+    "City": "Washington",
+    "Program Name": "MedStar Health Georgetown University/Washington Hospital Center Program",
+    "Accreditation ID": 1401011097,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Atlantis",
+    "Program Name": "HCA Florida JFK Hospital/University of Miami Miller School of Medicine GME Consortium Program",
+    "Accreditation ID": 1401131535,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Aventura",
+    "Program Name": "HCA Florida Healthcare/Aventura Hospital Program",
+    "Accreditation ID": 1401100924,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Boca Raton",
+    "Program Name": "Florida Atlantic University Charles E. Schmidt College of Medicine Program",
+    "Accreditation ID": 1401100923,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Bradenton",
+    "Program Name": "HCA Florida Healthcare/USF Morsani College of Medicine GME - Tampa South/Blake Hospital Program",
+    "Accreditation ID": 1401100944,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Bradenton",
+    "Program Name": "Manatee Memorial Hospital Program",
+    "Accreditation ID": 1401100948,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Brandon",
+    "Program Name": "HCA Florida Healthcare/USF Morsani College of Medicine GME - Tampa South/Brandon Hospital Program",
+    "Accreditation ID": 1401100940,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Brooksville",
+    "Program Name": "HCA Florida Healthcare/USF Morsani College of Medicine GME - Tampa North/Oak Hill Hospital Program",
+    "Accreditation ID": 1401100928,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Cape Coral",
+    "Program Name": "Florida State University College of Medicine Program",
+    "Accreditation ID": 1401100002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Deerfield Beach",
+    "Program Name": "Broward Health North Program",
+    "Accreditation ID": 1401100001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Fort Lauderdale",
+    "Program Name": "Broward Health Medical Center Program",
+    "Accreditation ID": 1401100945,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Fort Lauderdale",
+    "Program Name": "University of Miami Hospital and Clinics/Holy Cross Hospital Program",
+    "Accreditation ID": 1401100929,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Fort Walton Beach",
+    "Program Name": "University of Central Florida/HCA Florida Healthcare (Fort Walton Beach) Program",
+    "Accreditation ID": 1401100012,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Ft. Pierce",
+    "Program Name": "HCA Florida Healthcare/Lawnwood Hospital Program",
+    "Accreditation ID": 1401100007,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Gainesville",
+    "Program Name": "University of Central Florida/HCA Florida Healthcare (Gainesville) Program",
+    "Accreditation ID": 1401100938,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Gainesville",
+    "Program Name": "University of Florida Program",
+    "Accreditation ID": 1401121098,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Hialeah",
+    "Program Name": "Larkin Community Hospital Palm Springs Campus Program",
+    "Accreditation ID": 1401100957,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Hialeah",
+    "Program Name": "Palmetto General Hospital Program",
+    "Accreditation ID": 1401100953,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Hudson",
+    "Program Name": "HCA Florida Healthcare/USF Morsani College of Medicine GME - Tampa North/Bayonet Point Hospital Program",
+    "Accreditation ID": 1401100951,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Inverness",
+    "Program Name": "HCA Florida Healthcare/USF Morsani College of Medicine GME - Tampa North/Citrus Hospital Program",
+    "Accreditation ID": 1401100956,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Program Name": "Mayo Clinic College of Medicine and Science (Jacksonville) Program",
+    "Accreditation ID": 1401121509,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Program Name": "University of Florida College of Medicine Jacksonville Program  Osteopathic Recognized!",
+    "Accreditation ID": 1401121099,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Lakeland",
+    "Program Name": "Lakeland Regional Health Program",
+    "Accreditation ID": 1401100960,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Largo",
+    "Program Name": "HCA Florida Healthcare/USF Morsani College of Medicine GME - Tampa South/Largo Hospital Program",
+    "Accreditation ID": 1401100946,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami",
+    "Program Name": "Florida International University / Baptist Health Program",
+    "Accreditation ID": 1401100005,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami",
+    "Program Name": "HCA Florida Healthcare/Kendall Hospital Program",
+    "Accreditation ID": 1401100926,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami",
+    "Program Name": "Herbert Wertheim College of Medicine, Florida International University Program",
+    "Accreditation ID": 1401100003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami",
+    "Program Name": "University of Miami/Jackson Health System Program",
+    "Accreditation ID": 1401121100,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami Beach",
+    "Program Name": "Mount Sinai Medical Center of Florida Program",
+    "Accreditation ID": 1401112101,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Naples",
+    "Program Name": "NCH Healthcare System Program",
+    "Accreditation ID": 1401100942,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "New Port Richey",
+    "Program Name": "BayCare Health System (Morton Plant North Bay Hospital) Program",
+    "Accreditation ID": 1401100014,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Ocala",
+    "Program Name": "University of Central Florida/HCA Florida Healthcare (Ocala) Program",
+    "Accreditation ID": 1401100939,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Orange Park",
+    "Program Name": "HCA Florida Orange Park Hospital Program",
+    "Accreditation ID": 1401100937,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Program Name": "AdventHealth Florida (Orlando) Program",
+    "Accreditation ID": 1401131539,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Program Name": "Orlando Health Program",
+    "Accreditation ID": 1401131102,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Program Name": "University of Central Florida/HCA Florida Healthcare (Greater Orlando/Lake Monroe) Program",
+    "Accreditation ID": 1401100009,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Program Name": "University of Central Florida/HCA Florida Healthcare (Greater Orlando/Osceola) Program",
+    "Accreditation ID": 1401100909,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Pembroke Pines",
+    "Program Name": "Memorial Healthcare System (Hollywood, Florida) Program",
+    "Accreditation ID": 1401100950,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Pensacola",
+    "Program Name": "Florida State University College of Medicine Program",
+    "Accreditation ID": 1401100949,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Pensacola",
+    "Program Name": "University of Central Florida/HCA Florida Healthcare (Pensacola) Program",
+    "Accreditation ID": 1401100006,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Plantation",
+    "Program Name": "HCA Florida Healthcare/Westside/Northwest Hospital Program",
+    "Accreditation ID": 1401100955,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Riverview",
+    "Program Name": "BayCare Health System (St. Joseph`s Hospital-South) Program",
+    "Accreditation ID": 1401100016,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Safety Harbor",
+    "Program Name": "BayCare Health System - Mease Countryside Hospital Program",
+    "Accreditation ID": 1401100015,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Sarasota",
+    "Program Name": "Florida State University College of Medicine (Sarasota) Program",
+    "Accreditation ID": 1401100947,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Sarasota",
+    "Program Name": "HCA Florida Healthcare/USF Morsani College of Medicine GME - Tampa South/Sarasota Doctors Program",
+    "Accreditation ID": 1401100010,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Sebring",
+    "Program Name": "AdventHealth Florida (Sebring) Program",
+    "Accreditation ID": 1401100962,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "South Miami",
+    "Program Name": "Larkin Community Hospital Program",
+    "Accreditation ID": 1401100952,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "St Petersburg",
+    "Program Name": "BayCare Health System/St. Anthony's Hospital Program",
+    "Accreditation ID": 1401100017,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "St Petersburg",
+    "Program Name": "HCA Florida Healthcare/USF Morsani College of Medicine GME - Tampa South/Northside Hospital Program",
+    "Accreditation ID": 1401100943,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Tallahassee",
+    "Program Name": "Florida State University College of Medicine (Tallahassee) Program",
+    "Accreditation ID": 1401100894,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa",
+    "Program Name": "AdventHealth Florida (Tampa) Program",
+    "Accreditation ID": 1401100008,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa",
+    "Program Name": "BayCare Health System (St. Joseph`s Hospital) Program",
+    "Accreditation ID": 1401100011,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa",
+    "Program Name": "University of South Florida Morsani Program",
+    "Accreditation ID": 1401121104,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Trinity",
+    "Program Name": "HCA Florida Healthcare/USF Morsani College of Medicine GME - Tampa North/Trinity Hospital Program",
+    "Accreditation ID": 1401100959,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Wellington",
+    "Program Name": "Wellington Regional Medical Center Program",
+    "Accreditation ID": 1401100004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Florida",
+    "City": "Weston",
+    "Program Name": "Cleveland Clinic Foundation/Florida Weston Program",
+    "Accreditation ID": 1401121528,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Athens",
+    "Program Name": "Augusta University/University of Georgia Medical Partnership Program",
+    "Accreditation ID": 1401200926,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Athens",
+    "Program Name": "Piedmont Athens Regional Program",
+    "Accreditation ID": 1401200928,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Program Name": "Emory University School of Medicine Program",
+    "Accreditation ID": 1401221105,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Program Name": "Morehouse School of Medicine Program",
+    "Accreditation ID": 1401221502,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Augusta",
+    "Program Name": "Medical College of Georgia Program",
+    "Accreditation ID": 1401221107,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Austell",
+    "Program Name": "Wellstar Health System/Wellstar Cobb Hospital Program",
+    "Accreditation ID": 1401212106,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Brunswick",
+    "Program Name": "Southeast Georgia Health System, Inc. Program",
+    "Accreditation ID": 1401200006,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Columbus",
+    "Program Name": "St. Francis-Emory Healthcare Program",
+    "Accreditation ID": 1401200002,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Dalton",
+    "Program Name": "Hamilton Medical Center Program",
+    "Accreditation ID": 1401200933,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Gainesville",
+    "Program Name": "Northeast Georgia Medical Center Program",
+    "Accreditation ID": 1401200932,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Griffin",
+    "Program Name": "Wellstar Health System Spalding Program",
+    "Accreditation ID": 1401200004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Lawrenceville",
+    "Program Name": "Northside Hospital - Gwinnett Program  Osteopathic Recognized!",
+    "Accreditation ID": 1401200925,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Macon",
+    "Program Name": "Atrium Health Navicent The Medical Center/Mercer University School of Medicine Program",
+    "Accreditation ID": 1401221491,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Macon",
+    "Program Name": "Piedmont Macon Medical Center/Mercer University School of Medicine Program",
+    "Accreditation ID": 1401200931,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Marietta",
+    "Program Name": "Wellstar Health System/Wellstar Kennestone Regional Medical Center Program",
+    "Accreditation ID": 1401200929,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Riverdale",
+    "Program Name": "Prime South GME Consortium/Southern Regional Medical Center Program",
+    "Accreditation ID": 1401200005,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Rome",
+    "Program Name": "AdventHealth Redmond Program",
+    "Accreditation ID": 1401200930,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Savannah",
+    "Program Name": "HCA Healthcare/Mercer University School of Medicine/Memorial Health University Medical Center Program",
+    "Accreditation ID": 1401212108,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Thomasville",
+    "Program Name": "Archbold Medical Center Program",
+    "Accreditation ID": 1401200003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Georgia",
+    "City": "Valdosta",
+    "Program Name": "South Georgia Medical Center Program",
+    "Accreditation ID": 1401200001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Program Name": "Kaiser Permanente Hawaii Program",
+    "Accreditation ID": 1401400904,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Program Name": "University of Hawaii John A Burns School of Medicine Program",
+    "Accreditation ID": 1401400001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Program Name": "University of Hawaii Program",
+    "Accreditation ID": 1401421109,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Tripler AMC",
+    "Program Name": "Tripler Army Medical Center Program",
+    "Accreditation ID": 1401411007,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Idaho",
+    "City": "Boise",
+    "Program Name": "University of Washington [Boise] Program",
+    "Accreditation ID": 1401512544,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Idaho",
+    "City": "Idaho Falls",
+    "Program Name": "HCA Healthcare/Eastern Idaho Regional Medical Center Program",
+    "Accreditation ID": 1401500546,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Berwyn",
+    "Program Name": "Loyola Medicine MacNeal Hospital Program",
+    "Accreditation ID": 1401611454,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "Advocate Health Care/Advocate Illinois Masonic Medical Center Program",
+    "Accreditation ID": 1401611114,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "Ascension Illinois/Saint Joseph (Chicago) Program",
+    "Accreditation ID": 1401611122,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "Cook County Health and Hospitals System Program",
+    "Accreditation ID": 1401612113,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "Insight Hospital and Medical Center Chicago Program",
+    "Accreditation ID": 1401600001,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "Louis A Weiss Memorial Hospital Program",
+    "Accreditation ID": 1401611115,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "McGaw Medical Center of Northwestern University Program",
+    "Accreditation ID": 1401621119,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "Mount Sinai Hospital Medical Center of Chicago Program",
+    "Accreditation ID": 1401621541,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "Rush University Medical Center Program",
+    "Accreditation ID": 1401611121,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "Swedish Hospital Program",
+    "Accreditation ID": 1401600544,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "University of Chicago Program",
+    "Accreditation ID": 1401611123,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Program Name": "University of Illinois College of Medicine at Chicago Program",
+    "Accreditation ID": 1401621124,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Evanston",
+    "Program Name": "Prime Midwest GME Consortium Program",
+    "Accreditation ID": 1401611126,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Evanston",
+    "Program Name": "University of Chicago (Endeavor Health – NorthShore Hospitals) Program",
+    "Accreditation ID": 1401631125,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Kankakee",
+    "Program Name": "Riverside Medical Center Program",
+    "Accreditation ID": 1401600545,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Maywood",
+    "Program Name": "Loyola University Medical Center Program",
+    "Accreditation ID": 1401621128,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "McHenry",
+    "Program Name": "Chicago Medical School/Rosalind Franklin University of Medicine & Science/Northwestern Medicine McHenry Hospital Program",
+    "Accreditation ID": 1401600543,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "North Chicago",
+    "Program Name": "Chicago Medical School/Rosalind Franklin University of Medicine & Science Program",
+    "Accreditation ID": 1401621111,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Oak Lawn",
+    "Program Name": "Advocate Health Care/Advocate Christ Medical Center Program",
+    "Accreditation ID": 1401621129,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Oak Park",
+    "Program Name": "West Suburban Medical Center Program",
+    "Accreditation ID": 1401621467,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Olympia Fields",
+    "Program Name": "Franciscan Health Olympia Fields Program",
+    "Accreditation ID": 1401600546,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Park Ridge",
+    "Program Name": "Advocate Health Care/Advocate Lutheran General Hospital Program  Osteopathic Recognized!",
+    "Accreditation ID": 1401621130,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Peoria",
+    "Program Name": "University of Illinois College of Medicine at Peoria Program",
+    "Accreditation ID": 1401631131,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Rockford",
+    "Program Name": "Mercyhealth GME Consortium Program",
+    "Accreditation ID": 1401600547,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Springfield",
+    "Program Name": "Southern Illinois University Program",
+    "Accreditation ID": 1401621132,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Illinois",
+    "City": "Urbana",
+    "Program Name": "Carle Foundation Hospital Program",
+    "Accreditation ID": 1401621456,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Indiana",
+    "City": "Bloomington",
+    "Program Name": "Indiana University School of Medicine-Bloomington Program  New Program!",
+    "Accreditation ID": 1401700003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Indiana",
+    "City": "Evansville",
+    "Program Name": "Ascension St. Vincent Hospital Indianapolis (Southern Region) Program",
+    "Accreditation ID": 1401700001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Indiana",
+    "City": "Fort Wayne",
+    "Program Name": "Parkview Health Program",
+    "Accreditation ID": 1401700002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indianapolis",
+    "Program Name": "Ascension St Vincent Hospital Indianapolis Preliminary Program",
+    "Accreditation ID": 1401711135,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indianapolis",
+    "Program Name": "Ascension St Vincent Hospital Indianapolis Program",
+    "Accreditation ID": 1401711135,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indianapolis",
+    "Program Name": "Indiana University School of Medicine Program",
+    "Accreditation ID": 1401721133,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Indiana",
+    "City": "Muncie",
+    "Program Name": "Indiana University School of Medicine/Ball Memorial Program",
+    "Accreditation ID": 1401711136,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Indiana",
+    "City": "Valaparaiso",
+    "Program Name": "Health Education Services/Northwest Health (Porter) Program",
+    "Accreditation ID": 1404700004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Indiana",
+    "City": "Vincennes",
+    "Program Name": "Indiana University School of Medicine (Southwest Indiana) Program",
+    "Accreditation ID": 1401700138,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Iowa",
+    "City": "Des Moines",
+    "Program Name": "MercyOne Des Moines/PHC Consortium Program",
+    "Accreditation ID": 1401800139,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Iowa",
+    "City": "Des Moines",
+    "Program Name": "University of Iowa (Des Moines) Program",
+    "Accreditation ID": 1401831137,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Iowa",
+    "City": "Iowa City",
+    "Program Name": "University of Iowa Health Care Medical Center Program",
+    "Accreditation ID": 1401821138,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Iowa",
+    "City": "Mason City",
+    "Program Name": "MercyOne North Iowa Medical Center Program",
+    "Accreditation ID": 1401800140,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kansas",
+    "City": "Kansas City",
+    "Program Name": "University of Kansas School of Medicine Program",
+    "Accreditation ID": 1401921139,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kansas",
+    "City": "Olathe",
+    "Program Name": "University of Kansas School of Medicine (Olathe) Program",
+    "Accreditation ID": 1401900001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kansas",
+    "City": "Overland Park",
+    "Program Name": "HCA Healthcare Kansas City/Overland Park Regional Medical Center Program",
+    "Accreditation ID": 1402800917,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kansas",
+    "City": "Overland Park",
+    "Program Name": "HCA Healthcare Kansas City/Overland Park Regional Medical Center Program",
+    "Accreditation ID": 1401900141,
+    "Status": "Not Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kansas",
+    "City": "Wichita",
+    "Program Name": "University of Kansas (Wichita) Program",
+    "Accreditation ID": 1401921140,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Ashland",
+    "Program Name": "University of Kentucky College of Medicine (Ashland) Program",
+    "Accreditation ID": 1402000002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Bowling Green",
+    "Program Name": "University of Kentucky College of Medicine (Bowling Green) Program",
+    "Accreditation ID": 1402000144,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Lexington",
+    "Program Name": "University of Kentucky College of Medicine Program",
+    "Accreditation ID": 1402021141,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Louisville",
+    "Program Name": "University of Louisville School of Medicine Program",
+    "Accreditation ID": 1402031142,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Pikeville",
+    "Program Name": "University of Kentucky College of Medicine (Pikeville) Program",
+    "Accreditation ID": 1402000003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Somerset",
+    "Program Name": "Lake Cumberland Regional Hospital Program",
+    "Accreditation ID": 1402000143,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Whitesburg",
+    "Program Name": "Appalachian Regional Healthcare, Inc. Program",
+    "Accreditation ID": 1402000145,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Baton Rouge",
+    "Program Name": "Baton Rouge General Program",
+    "Accreditation ID": 1402131543,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Baton Rouge",
+    "Program Name": "Louisiana State University (Baton Rouge) Program",
+    "Accreditation ID": 1402121507,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Hammond",
+    "Program Name": "North Oaks Medical Center, LLC Program",
+    "Accreditation ID": 1402100003,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Houma",
+    "Program Name": "Leonard J Chabert Medical Center Program",
+    "Accreditation ID": 1402121537,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Lafayette",
+    "Program Name": "LSU Health Sciences Center/University Hospital and Clinics (Lafayette) Program",
+    "Accreditation ID": 1402111144,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Monroe",
+    "Program Name": "St. Francis Medical Center Program",
+    "Accreditation ID": 1402100002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans",
+    "Program Name": "Louisiana State University Program",
+    "Accreditation ID": 1402121143,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans",
+    "Program Name": "Ochsner Clinic Foundation Program",
+    "Accreditation ID": 1402122146,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans",
+    "Program Name": "Tulane University Program",
+    "Accreditation ID": 1402121147,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Shreveport",
+    "Program Name": "Louisiana State University (Shreveport) Program",
+    "Accreditation ID": 1402121148,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Shreveport",
+    "Program Name": "Willis-Knighton Health System Program",
+    "Accreditation ID": 1402100001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maine",
+    "City": "Portland",
+    "Program Name": "Maine Medical Center Program",
+    "Accreditation ID": 1402211149,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Annapolis",
+    "Program Name": "Anne Arundel Medical Center Program",
+    "Accreditation ID": 1402300491,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore",
+    "Program Name": "Greater Baltimore Medical Center Program",
+    "Accreditation ID": 1402331152,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore",
+    "Program Name": "Johns Hopkins University Program",
+    "Accreditation ID": 1402311153,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore",
+    "Program Name": "Johns Hopkins University/Bayview Medical Center Program",
+    "Accreditation ID": 1402311150,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore",
+    "Program Name": "MedStar Health Georgetown University (Baltimore) Program",
+    "Accreditation ID": 1402312159,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore",
+    "Program Name": "Sinai Hospital of Baltimore Program",
+    "Accreditation ID": 1402312157,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore",
+    "Program Name": "St Agnes HealthCare Program",
+    "Accreditation ID": 1402312156,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore",
+    "Program Name": "University of Maryland Medical Center Midtown Campus Program",
+    "Accreditation ID": 1402311154,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore",
+    "Program Name": "University of Maryland Program",
+    "Accreditation ID": 1402321160,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore",
+    "Program Name": "University of Maryland at Mercy Medical Center Preliminary Program",
+    "Accreditation ID": 1402321160,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Gaithersburg",
+    "Program Name": "Kaiser Permanente Mid-Atlantic States Program",
+    "Accreditation ID": 1402300490,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Largo",
+    "Program Name": "University of Maryland Capital Region Health Program",
+    "Accreditation ID": 1402321161,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Maryland",
+    "City": "Salisbury",
+    "Program Name": "TidalHealth Program",
+    "Accreditation ID": 1402300001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Program Name": "Beth Israel Deaconess Medical Center Program",
+    "Accreditation ID": 1402421162,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Program Name": "Boston University Medical Center Program",
+    "Accreditation ID": 1402431164,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Program Name": "Mass General Brigham/Brigham and Women’s Hospital Program",
+    "Accreditation ID": 1402421172,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Program Name": "Mass General Brigham/Massachusetts General Hospital Program",
+    "Accreditation ID": 1402411169,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Program Name": "St Elizabeth's Medical Center Program",
+    "Accreditation ID": 1402421173,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Program Name": "Tufts Medical Center Program",
+    "Accreditation ID": 1402421171,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Burlington",
+    "Program Name": "Lahey Clinic Program",
+    "Accreditation ID": 1402421511,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Cambridge",
+    "Program Name": "Cambridge Health Alliance Program",
+    "Accreditation ID": 1402411175,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Cambridge",
+    "Program Name": "Mount Auburn Hospital Program",
+    "Accreditation ID": 1402411176,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Dorchester",
+    "Program Name": "Steward Carney Hospital Program",
+    "Accreditation ID": 1402411166,
+    "Status": "Not Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Framingham",
+    "Program Name": "MetroWest Medical Center Program",
+    "Accreditation ID": 1402421177,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Pittsfield",
+    "Program Name": "Berkshire Medical Center Program  Osteopathic Recognized!",
+    "Accreditation ID": 1402411179,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Salem",
+    "Program Name": "Mass General Brigham/Salem Hospital Program",
+    "Accreditation ID": 1402412180,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Springfield",
+    "Program Name": "UMass Chan - Baystate Program",
+    "Accreditation ID": 1402411181,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Worcester",
+    "Program Name": "St Vincent Hospital Program",
+    "Accreditation ID": 1402411183,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Worcester",
+    "Program Name": "UMass Chan Medical School Program",
+    "Accreditation ID": 1402421184,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Ann Arbor",
+    "Program Name": "University of Michigan Program",
+    "Accreditation ID": 1402521187,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Bay City",
+    "Program Name": "McLaren Health Care Corporation Program",
+    "Accreditation ID": 1402500002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Clinton Township",
+    "Program Name": "Henry Ford Health/Henry Ford Macomb Hospital Program",
+    "Accreditation ID": 1402500922,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Commerce Township",
+    "Program Name": "Detroit Medical Center (Huron Valley-Sinai) Program",
+    "Accreditation ID": 1402500919,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Dearborn",
+    "Program Name": "Corewell Health (Dearborn) Program",
+    "Accreditation ID": 1402531188,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Program Name": "Detroit Medical Center/Wayne State University (Sinai Grace) Program",
+    "Accreditation ID": 1402521506,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Program Name": "Detroit Medical Center/Wayne State University Program",
+    "Accreditation ID": 1402521194,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Program Name": "Detroit Wayne County Health Authority (Authority Health) GME Consortium Program",
+    "Accreditation ID": 1402500923,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Program Name": "Henry Ford Health/Henry Ford Hospital Program",
+    "Accreditation ID": 1402511189,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Program Name": "Henry Ford St. John Hospital Program",
+    "Accreditation ID": 1402511191,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Farmington Hills",
+    "Program Name": "Corewell Health (Farmington Hills) Program",
+    "Accreditation ID": 1402500918,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Flint",
+    "Program Name": "Hurley Medical Center/Michigan State University Program",
+    "Accreditation ID": 1402531196,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Flint",
+    "Program Name": "McLaren Health Care/Flint/MSU Program",
+    "Accreditation ID": 1402521471,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Garden City",
+    "Program Name": "Garden City Hospital Program",
+    "Accreditation ID": 1402500915,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Grand Blanc",
+    "Program Name": "Henry Ford Genesys Hospital Program",
+    "Accreditation ID": 1402500913,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Grand Rapids",
+    "Program Name": "Corewell Health – Grand Rapids/Michigan State University Program",
+    "Accreditation ID": 1402531198,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Grand Rapids",
+    "Program Name": "Trinity Health Grand Rapids Program",
+    "Accreditation ID": 1402500927,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Jackson",
+    "Program Name": "Henry Ford Health/Henry Ford Jackson Hospital Program",
+    "Accreditation ID": 1402500912,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Kalamazoo",
+    "Program Name": "Western Michigan University Homer Stryker MD School of Medicine Program  Osteopathic Recognized!",
+    "Accreditation ID": 1402521199,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Lansing",
+    "Program Name": "McLaren Health Care/Greater Lansing/MSU Program",
+    "Accreditation ID": 1402500926,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Lansing",
+    "Program Name": "University of Michigan Health - Sparrow/Michigan State University Program",
+    "Accreditation ID": 1402521195,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Livonia",
+    "Program Name": "Trinity Health Livonia Hospital Program",
+    "Accreditation ID": 1402512540,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Mount Clemens",
+    "Program Name": "McLaren Health Care/Macomb/MSU Program",
+    "Accreditation ID": 1402500925,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Muskegon",
+    "Program Name": "Trinity Health Muskegon Program",
+    "Accreditation ID": 1402500920,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Pontiac",
+    "Program Name": "McLaren Health Care/Oakland/MSU Program",
+    "Accreditation ID": 1402500917,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Pontiac",
+    "Program Name": "Trinity Health Oakland/Wayne State University Program",
+    "Accreditation ID": 1402511200,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Port Huron",
+    "Program Name": "McLaren Health Care Corporation Program",
+    "Accreditation ID": 1402500001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Rochester",
+    "Program Name": "Wayne State University School of Medicine Program",
+    "Accreditation ID": 1402500896,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Royal Oak",
+    "Program Name": "Corewell Health William Beaumont University Hospital Program",
+    "Accreditation ID": 1402512201,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Saginaw",
+    "Program Name": "Central Michigan University College of Medicine Program",
+    "Accreditation ID": 1402531202,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Southfield",
+    "Program Name": "Henry Ford Providence Hospital Program",
+    "Accreditation ID": 1402511203,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "St. Joseph",
+    "Program Name": "Corewell Health Lakeland Program",
+    "Accreditation ID": 1402500914,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Trenton",
+    "Program Name": "Corewell Health (Trenton) Program",
+    "Accreditation ID": 1402500928,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Warren",
+    "Program Name": "Henry Ford Warren Hospital Program",
+    "Accreditation ID": 1402500921,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Wyoming",
+    "Program Name": "University of Michigan Health-West Program  Osteopathic Recognized!",
+    "Accreditation ID": 1402500916,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Michigan",
+    "City": "Ypsilanti",
+    "Program Name": "Trinity Health Ann Arbor Hospital Program",
+    "Accreditation ID": 1402512186,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis",
+    "Program Name": "Abbott-Northwestern Hospital Program",
+    "Accreditation ID": 1402631204,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis",
+    "Program Name": "Hennepin Healthcare Program",
+    "Accreditation ID": 1402631207,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis",
+    "Program Name": "University of Minnesota Program",
+    "Accreditation ID": 1402621205,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Rochester",
+    "Program Name": "Mayo Clinic College of Medicine and Science (Rochester) Program",
+    "Accreditation ID": 1402621208,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Columbus",
+    "Program Name": "Baptist Memorial Medical Education (Columbus) Program",
+    "Accreditation ID": 1402700211,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Corinth",
+    "Program Name": "Magnolia Regional Health Center Program",
+    "Accreditation ID": 1402700210,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Gulfport",
+    "Program Name": "Memorial Hospital at Gulfport Program",
+    "Accreditation ID": 1402700001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Jackson",
+    "Program Name": "Baptist Memorial Medical Education Program",
+    "Accreditation ID": 1402700002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Jackson",
+    "Program Name": "University of Mississippi Medical Center Program",
+    "Accreditation ID": 1402721209,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Laurel",
+    "Program Name": "South Central Regional Medical Center Program",
+    "Accreditation ID": 1402700003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Oxford",
+    "Program Name": "Baptist Memorial Medical Education (Oxford) Program",
+    "Accreditation ID": 1404200003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Tupelo",
+    "Program Name": "North Mississippi Medical Center Program",
+    "Accreditation ID": 1402700213,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "Chesterfield",
+    "Program Name": "St Luke's Hospital Program",
+    "Accreditation ID": 1402821219,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "Columbia",
+    "Program Name": "University of Missouri-Columbia Program",
+    "Accreditation ID": 1402821210,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "Hannibal",
+    "Program Name": "Hannibal Regional Healthcare System, Inc. Program",
+    "Accreditation ID": 1402800004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "Independence",
+    "Program Name": "HCA Healthcare Kansas City/Centerpoint Medical Center Program",
+    "Accreditation ID": 1402800003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "Joplin",
+    "Program Name": "Kansas City University GME Consortium (KCU-GME Consortium)/Freeman Program",
+    "Accreditation ID": 1402800915,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "Kansas City",
+    "Program Name": "Prime South GME Consortium/St. Joseph Medical Center Program",
+    "Accreditation ID": 1402800002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "Kansas City",
+    "Program Name": "University of Missouri-Kansas City School of Medicine Program",
+    "Accreditation ID": 1402831214,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "Kirksville",
+    "Program Name": "Still OPTI Program",
+    "Accreditation ID": 1402800914,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "Poplar Bluff",
+    "Program Name": "Health Education Services/Poplar Bluff Regional Medical Center Program",
+    "Accreditation ID": 1402800916,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "St Louis",
+    "Program Name": "Mercy Hospital (St Louis) Program",
+    "Accreditation ID": 1402831217,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "St Louis",
+    "Program Name": "St Louis University School of Medicine Program",
+    "Accreditation ID": 1402821218,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "St Louis",
+    "Program Name": "Washington University/B-JH/SLCH Consortium Program",
+    "Accreditation ID": 1402821215,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "St. Louis",
+    "Program Name": "SSM St Mary's Hospital-St Louis Program",
+    "Accreditation ID": 1402811220,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Missouri",
+    "City": "St.Louis",
+    "Program Name": "Washington University/B-JH/SLCH Consortium at Missouri Baptist Medical Center Program",
+    "Accreditation ID": 1402800001,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Montana",
+    "City": "Billings",
+    "Program Name": "Billings Clinic Program",
+    "Accreditation ID": 1402900919,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Montana",
+    "City": "Great Falls",
+    "Program Name": "Opti West - Benefis Hospital Program",
+    "Accreditation ID": 1402900001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Omaha",
+    "Program Name": "Creighton University School of Medicine (Omaha) Program",
+    "Accreditation ID": 1403021222,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Omaha",
+    "Program Name": "University of Nebraska Medical Center College of Medicine Program",
+    "Accreditation ID": 1403021224,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Program Name": "Dignity Health St. Rose Dominican Hospitals Program",
+    "Accreditation ID": 1403100001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Program Name": "HCA Healthcare Sunrise Health Graduate Medical Education Program",
+    "Accreditation ID": 1403100498,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Program Name": "Kirk Kerkorian School of Medicine at UNLV Program",
+    "Accreditation ID": 1403121497,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Program Name": "OPTI West/Valley Hospital (Las Vegas) Program",
+    "Accreditation ID": 1403100499,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Program Name": "Valley Health System Program",
+    "Accreditation ID": 1403100500,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Nevada",
+    "City": "Reno",
+    "Program Name": "University of Nevada Reno School of Medicine Program",
+    "Accreditation ID": 1403121483,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "Lebanon",
+    "Program Name": "Dartmouth-Hitchcock/Mary Hitchcock Memorial Hospital Program",
+    "Accreditation ID": 1403221225,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "Portsmouth",
+    "Program Name": "HCA Healthcare/Tufts University School of Medicine: Portsmouth Regional Hospital Program",
+    "Accreditation ID": 1403200226,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Atlantic City",
+    "Program Name": "AtlantiCare Regional Medical Center Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403331226,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Bayonne",
+    "Program Name": "CarePoint Health/Bayonne Medical Center Program",
+    "Accreditation ID": 1403300537,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Brick",
+    "Program Name": "Hackensack Meridian Health Program",
+    "Accreditation ID": 1403300538,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Camden",
+    "Program Name": "Cooper Medical School of Rowan University/Cooper University Hospital Program",
+    "Accreditation ID": 1403321227,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Camden",
+    "Program Name": "Virtua Program",
+    "Accreditation ID": 1403300001,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Denville",
+    "Program Name": "New York Medical College/St. Mary and St. Clare Program",
+    "Accreditation ID": 1403300539,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "ENGLEWOOD",
+    "Program Name": "Hackensack Meridian Health Program",
+    "Accreditation ID": 1403321228,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Elizabeth",
+    "Program Name": "Rutgers Health/Trinitas Regional Medical Center Program",
+    "Accreditation ID": 1403321498,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Hackensack",
+    "Program Name": "Hackensack Meridian Health Program",
+    "Accreditation ID": 1403300536,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Jersey City",
+    "Program Name": "Rutgers Health/Jersey City Medical Center Program",
+    "Accreditation ID": 1403321232,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Long Branch",
+    "Program Name": "Rutgers Health/Monmouth Medical Center Program",
+    "Accreditation ID": 1403311233,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Montclair",
+    "Program Name": "Hackensack Meridian Health Program",
+    "Accreditation ID": 1403311234,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Morristown",
+    "Program Name": "Atlantic Health System/Morristown Medical Center Program",
+    "Accreditation ID": 1403311235,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Mullica Hill",
+    "Program Name": "Inspira Health Network/Inspira Medical Center Mullica Hill Program",
+    "Accreditation ID": 1403300541,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Neptune",
+    "Program Name": "Hackensack Meridian Health Program",
+    "Accreditation ID": 1403312236,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "New Brunswick",
+    "Program Name": "Rutgers Health/Robert Wood Johnson Medical School Program",
+    "Accreditation ID": 1403321243,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "New Brunswick",
+    "Program Name": "Saint Peter's University Hospital/Rutgers Robert Wood Johnson Medical School Program",
+    "Accreditation ID": 1403321531,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Newark",
+    "Program Name": "New York Medical College at St Michael's Medical Center Program",
+    "Accreditation ID": 1403300532,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Newark",
+    "Program Name": "Rutgers Health/New Jersey Medical School Program",
+    "Accreditation ID": 1403321237,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Newark",
+    "Program Name": "Rutgers Health/Newark Beth Israel Medical Center Program",
+    "Accreditation ID": 1403321518,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "North Bergen",
+    "Program Name": "Hackensack Meridian Health Program",
+    "Accreditation ID": 1403300534,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Paramus",
+    "Program Name": "Icahn School of Medicine at Mount Sinai/Valley Health Program",
+    "Accreditation ID": 1403300002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Paterson",
+    "Program Name": "St Joseph's University Medical Center Program",
+    "Accreditation ID": 1403321522,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Perth Amboy",
+    "Program Name": "Hackensack Meridian Health Program",
+    "Accreditation ID": 1403321466,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Stratford",
+    "Program Name": "Jefferson Health New Jersey Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403300535,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Summit",
+    "Program Name": "Atlantic Health System/Overlook Medical Center Program",
+    "Accreditation ID": 1403311245,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Teaneck",
+    "Program Name": "Holy Name Medical Center Program",
+    "Accreditation ID": 1403300003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Toms River",
+    "Program Name": "Rutgers Health/Community Medical Center Program",
+    "Accreditation ID": 1403300540,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Trenton",
+    "Program Name": "Capital Health Regional Medical Center Program",
+    "Accreditation ID": 1403321246,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Jersey",
+    "City": "Vineland",
+    "Program Name": "Inspira Health Network/Inspira Medical Center Vineland Program",
+    "Accreditation ID": 1403300533,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Mexico",
+    "City": "Albuquerque",
+    "Program Name": "University of New Mexico School of Medicine Program",
+    "Accreditation ID": 1403421247,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Mexico",
+    "City": "Las Cruces",
+    "Program Name": "HES/Mountain View Regional Medical Center Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403400248,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New Mexico",
+    "City": "Las Cruces",
+    "Program Name": "Three Crosses Regional Hospital Program",
+    "Accreditation ID": 1403400002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Albany",
+    "Program Name": "Albany Med Health System Program",
+    "Accreditation ID": 1403531248,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Bay Shore",
+    "Program Name": "Zucker School of Medicine at Hofstra/Northwell at South Shore University Hospital Program",
+    "Accreditation ID": 1403500003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Binghamton",
+    "Program Name": "Our Lady of Lourdes Memorial Hospital Inc. Program",
+    "Accreditation ID": 1403500004,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Bronx",
+    "Program Name": "BronxCare Health System Program",
+    "Accreditation ID": 1403511263,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Bronx",
+    "Program Name": "Icahn School of Medicine at Mount Sinai (Bronx) Program",
+    "Accreditation ID": 1403531517,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Bronx",
+    "Program Name": "Jacobi Medical Center/Albert Einstein College of Medicine Program",
+    "Accreditation ID": 1403531521,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Bronx",
+    "Program Name": "Jacobi Medical Center/North Central Bronx Hospital Program",
+    "Accreditation ID": 1403500002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Bronx",
+    "Program Name": "Lincoln Medical and Mental Health Center Program",
+    "Accreditation ID": 1403521470,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Bronx",
+    "Program Name": "Montefiore Medical Center/Albert Einstein College of Medicine (Moses and Weiler Campuses) Program",
+    "Accreditation ID": 1403521287,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Bronx",
+    "Program Name": "Montefiore Medical Center/Albert Einstein College of Medicine (Wakefield Campus) Program",
+    "Accreditation ID": 1403521285,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Bronx",
+    "Program Name": "St Barnabas Hospital Program",
+    "Accreditation ID": 1403521485,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "Brooklyn Hospital Center Program",
+    "Accreditation ID": 1403512265,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "Family Health Center at NYU Langone Program",
+    "Accreditation ID": 1403500921,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "Maimonides Medical Center Program",
+    "Accreditation ID": 1403511283,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "NYC Health & Hospitals/South Brooklyn Health Program",
+    "Accreditation ID": 1403511269,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "New York-Presbyterian Brooklyn Methodist Hospital Program",
+    "Accreditation ID": 1403511284,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "One Brooklyn Health System/Brookdale University Hospital and Medical Center Program",
+    "Accreditation ID": 1403511264,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "One Brooklyn Health System/Interfaith Medical Center Program",
+    "Accreditation ID": 1403521276,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "SUNY Downstate Health Sciences University (Primary Care) Program",
+    "Accreditation ID": 1403500933,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "SUNY Downstate Health Sciences University Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403521305,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "Woodhull Medical and Mental Health Center Program",
+    "Accreditation ID": 1403521487,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Brooklyn",
+    "Program Name": "Wyckoff Heights Medical Center Program",
+    "Accreditation ID": 1403521520,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo",
+    "Program Name": "University at Buffalo (Catholic Health System--Sisters of Charity) Program",
+    "Accreditation ID": 1403521251,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo",
+    "Program Name": "University at Buffalo Program",
+    "Accreditation ID": 1403531252,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Cooperstown",
+    "Program Name": "Bassett Medical Center Program",
+    "Accreditation ID": 1403511253,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "East Meadow",
+    "Program Name": "Nassau University Medical Center Program",
+    "Accreditation ID": 1403521254,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Elmhurst",
+    "Program Name": "Icahn School of Medicine at Mount Sinai (NYC Health and Hospitals: Elmhurst) Program",
+    "Accreditation ID": 1403511268,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Elmira",
+    "Program Name": "Arnot Ogden Medical Center Program",
+    "Accreditation ID": 1403500927,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Far Rockaway",
+    "Program Name": "St John's Episcopal Hospital-South Shore Program",
+    "Accreditation ID": 1403521486,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Flushing",
+    "Program Name": "Flushing Hospital Medical Center Program",
+    "Accreditation ID": 1403511272,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Flushing",
+    "Program Name": "New York-Presbyterian/Queens Program",
+    "Accreditation ID": 1403511262,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Forest Hills",
+    "Program Name": "Zucker School of Medicine at Hofstra/Northwell at Forest Hills Hospital Program",
+    "Accreditation ID": 1403521468,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Ithaca",
+    "Program Name": "Cayuga Medical Center Program",
+    "Accreditation ID": 1403500931,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Jamaica",
+    "Program Name": "Icahn School of Medicine at Mount Sinai (NYC Health and Hospitals: Queens) Program",
+    "Accreditation ID": 1403521510,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Jamaica",
+    "Program Name": "Jamaica Hospital Medical Center Program",
+    "Accreditation ID": 1403512275,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Johnson City",
+    "Program Name": "United Health Services Hospitals Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403531255,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Middletown",
+    "Program Name": "Garnet Health Medical Center Program",
+    "Accreditation ID": 1403500928,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Mineola",
+    "Program Name": "NYU Grossman Long Island School of Medicine Program",
+    "Accreditation ID": 1403511256,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Mount Kisco",
+    "Program Name": "Zucker School Of Medicine at Hofstra/Northwell at Northern Westchester Hospital Program",
+    "Accreditation ID": 1403500005,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "NY",
+    "Program Name": "New York Presbyterian Hospital (Cornell Campus) Program",
+    "Accreditation ID": 1403521270,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "New Hyde Park",
+    "Program Name": "Zucker School of Medicine at Hofstra/Northwell Program",
+    "Accreditation ID": 1403521281,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "New Rochelle",
+    "Program Name": "Montefiore Medical Center/Albert Einstein College of Medicine (New Rochelle) Program",
+    "Accreditation ID": 1403511258,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Program Name": "Harlem Hospital Center Program",
+    "Accreditation ID": 1403511273,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Program Name": "Icahn School of Medicine at Mount Sinai (Morningside/West) Program",
+    "Accreditation ID": 1403521301,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Program Name": "Icahn School of Medicine at Mount Sinai (Mount Sinai Hospital) Program",
+    "Accreditation ID": 1403531288,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Program Name": "NYU Grossman School of Medicine Program",
+    "Accreditation ID": 1403521292,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Program Name": "New York Medical College (Metropolitan) Program",
+    "Accreditation ID": 1403531290,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Program Name": "New York Presbyterian Hospital (Columbia Campus) Program",
+    "Accreditation ID": 1403511297,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Program Name": "Zucker School of Medicine at Hofstra/Northwell at Lenox Hill Hospital Program",
+    "Accreditation ID": 1403511278,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Newburgh",
+    "Program Name": "Montefiore St. Luke's Cornwall Program",
+    "Accreditation ID": 1403500001,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Oceanside",
+    "Program Name": "Icahn School of Medicine at Mount Sinai (South Nassau) Program",
+    "Accreditation ID": 1403500930,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Patchogue",
+    "Program Name": "NYU Grossman Long Island School of Medicine Primary Care Program",
+    "Accreditation ID": 1403500929,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Port Jefferson",
+    "Program Name": "Zucker School of Medicine at Hofstra/Northwell at Mather Hospital Program",
+    "Accreditation ID": 1403500922,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Poughkeepsie",
+    "Program Name": "Nuvance Health Consortium (Vassar Brothers Medical Center) Program",
+    "Accreditation ID": 1403500932,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Rochester",
+    "Program Name": "Rochester Regional Health/Rochester General Hospital Program",
+    "Accreditation ID": 1403531314,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Rochester",
+    "Program Name": "Rochester Regional Health/Unity Internal Medicine Program",
+    "Accreditation ID": 1403531527,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Rochester",
+    "Program Name": "University of Rochester Medical Center Program",
+    "Accreditation ID": 1403511313,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Southampton",
+    "Program Name": "Stony Brook Medicine/Southampton Hospital Program",
+    "Accreditation ID": 1403500923,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Staten Island",
+    "Program Name": "Richmond University Medical Center Program",
+    "Accreditation ID": 1403511303,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Staten Island",
+    "Program Name": "Zucker School of Medicine at Hofstra/Northwell at Staten Island University Hospital Program",
+    "Accreditation ID": 1403511304,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Stony Brook",
+    "Program Name": "Stony Brook Medicine/University Hospital Program",
+    "Accreditation ID": 1403521315,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Syracuse",
+    "Program Name": "SUNY Upstate Medical University Program",
+    "Accreditation ID": 1403521316,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Valhalla",
+    "Program Name": "Westchester Medical Center Program",
+    "Accreditation ID": 1403511317,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Watertown",
+    "Program Name": "Samaritan Medical Center Program",
+    "Accreditation ID": 1403500926,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "New York",
+    "City": "Yonkers",
+    "Program Name": "St. John's Riverside Hospital Program",
+    "Accreditation ID": 1403500924,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Asheville",
+    "Program Name": "Mountain Area Health Education Center Program",
+    "Accreditation ID": 1403600333,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Chapel Hill",
+    "Program Name": "University of North Carolina Hospitals Program",
+    "Accreditation ID": 1403621318,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Charlotte",
+    "Program Name": "Carolinas Medical Center Program",
+    "Accreditation ID": 1403611319,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Dunn",
+    "Program Name": "Campbell University/Harnett Health Program",
+    "Accreditation ID": 1403600329,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Durham",
+    "Program Name": "Duke University Hospital Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403621320,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Fayetteville",
+    "Program Name": "Cape Fear Valley Health Program",
+    "Accreditation ID": 1403600328,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Greensboro",
+    "Program Name": "Cone Health Program",
+    "Accreditation ID": 1403611321,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Greenville",
+    "Program Name": "ECU Health Medical Center/East Carolina University Program",
+    "Accreditation ID": 1403611323,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Lumberton",
+    "Program Name": "Southeastern Regional Medical Center Program",
+    "Accreditation ID": 1403600327,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Morganton",
+    "Program Name": "UNC Health Blue Ridge Program",
+    "Accreditation ID": 1403600326,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Raleigh",
+    "Program Name": "WakeMed Health and Hospitals Program",
+    "Accreditation ID": 1403600332,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Statesville",
+    "Program Name": "Iredell Health System Program",
+    "Accreditation ID": 1403600002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Wilmington",
+    "Program Name": "Novant Health New Hanover Regional Medical Center Program",
+    "Accreditation ID": 1403611324,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Winston Salem",
+    "Program Name": "Wake Forest University School of Medicine Program",
+    "Accreditation ID": 1403621325,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Dakota",
+    "City": "Bismarck",
+    "Program Name": "Univ of North Dakota School of Medicine and Health Sciences Program  New Program!",
+    "Accreditation ID": 1403700001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "North Dakota",
+    "City": "Fargo",
+    "Program Name": "University of North Dakota Program",
+    "Accreditation ID": 1403721326,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Akron",
+    "Program Name": "Cleveland Clinic Foundation/Akron General Program",
+    "Accreditation ID": 1403811328,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Akron",
+    "Program Name": "Summa Health System/NEOMED Program",
+    "Accreditation ID": 1403811327,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Canton",
+    "Program Name": "Canton Medical Education Foundation/NEOMED Program",
+    "Accreditation ID": 1403821330,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Chardon",
+    "Program Name": "University Hospitals Community Consortium Program",
+    "Accreditation ID": 1403800541,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Chillicothe",
+    "Program Name": "Adena Regional Medical Center Program",
+    "Accreditation ID": 1403800539,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati",
+    "Program Name": "Christ Hospital Program",
+    "Accreditation ID": 1403811331,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati",
+    "Program Name": "Jewish Hospital of Cincinnati Program",
+    "Accreditation ID": 1403811333,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati",
+    "Program Name": "Mercy Health - Anderson Hospital Program",
+    "Accreditation ID": 1403800004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati",
+    "Program Name": "TriHealth (Good Samaritan Hospital) Program",
+    "Accreditation ID": 1403831332,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati",
+    "Program Name": "University of Cincinnati Medical Center/College of Medicine Program",
+    "Accreditation ID": 1403821334,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cleveland",
+    "Program Name": "Case Western Reserve University/University Hospitals Cleveland Medical Center Program",
+    "Accreditation ID": 1403821335,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cleveland",
+    "Program Name": "Cleveland Clinic Foundation Program",
+    "Accreditation ID": 1403812339,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cleveland",
+    "Program Name": "Cleveland Clinic Foundation/Fairview Hospital Program",
+    "Accreditation ID": 1403821340,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cleveland",
+    "Program Name": "The MetroHealth System/Case Western Reserve University Preliminary Program",
+    "Accreditation ID": 1403811336,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cleveland",
+    "Program Name": "The MetroHealth System/Case Western Reserve University Program",
+    "Accreditation ID": 1403811336,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Columbus",
+    "Program Name": "Ohio State University Hospital Program",
+    "Accreditation ID": 1403811342,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Columbus",
+    "Program Name": "OhioHealth/Doctors Hospital Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403800534,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Columbus",
+    "Program Name": "OhioHealth/Riverside Methodist Hospital Program",
+    "Accreditation ID": 1403812343,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cuyahoga Falls",
+    "Program Name": "Western Reserve Hospital Program",
+    "Accreditation ID": 1403800536,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Dayton",
+    "Program Name": "Kettering Health Network/Grandview Medical Center Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403800538,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Dayton",
+    "Program Name": "Wright State University Program",
+    "Accreditation ID": 1403821345,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "East Liverpool",
+    "Program Name": "East Liverpool City Hospital Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403800543,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Fairfield",
+    "Program Name": "Mercy Health Fairfield Hospital Program",
+    "Accreditation ID": 1403800003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Gallipolis",
+    "Program Name": "Marshall Community Health Consortium Program",
+    "Accreditation ID": 1403800001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Grove City",
+    "Program Name": "Mount Carmel Health System Program",
+    "Accreditation ID": 1403812341,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Kettering",
+    "Program Name": "Kettering Health Network/Kettering Medical Center Program",
+    "Accreditation ID": 1403821347,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Lancaster",
+    "Program Name": "Fairfield Medical Center Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403800535,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Lima",
+    "Program Name": "Mercy Health-St Rita's Medical Center Program",
+    "Accreditation ID": 1403800544,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Parma",
+    "Program Name": "University Hospitals Community Consortium (Parma) Program",
+    "Accreditation ID": 1403800542,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Steubenville",
+    "Program Name": "Trinity Health System Program",
+    "Accreditation ID": 1403800545,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Program Name": "Mercy St Vincent Medical Center/Mercy Health Partners Program",
+    "Accreditation ID": 1403812533,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Program Name": "University of Toledo Program",
+    "Accreditation ID": 1403821348,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Warren",
+    "Program Name": "Western Reserve Health Education/NEOMED Program",
+    "Accreditation ID": 1403831350,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Warrensville Hts.",
+    "Program Name": "Cleveland Clinic Foundation/South Pointe Hospital Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403800537,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Westlake",
+    "Program Name": "University Hospitals Community Consortium (Westlake) Program",
+    "Accreditation ID": 1403800540,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Ohio",
+    "City": "Youngstown",
+    "Program Name": "St Elizabeth Youngstown Hospital/NEOMED Program",
+    "Accreditation ID": 1403811349,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Program Name": "University of Oklahoma Health Sciences Center Program",
+    "Accreditation ID": 1403921351,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stillwater",
+    "Program Name": "Oklahoma State University Center for Health Sciences (Stillwater) Program",
+    "Accreditation ID": 1403900001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tahlequah",
+    "Program Name": "Osteopathic Medical Education Consortium of Oklahoma, Inc. (OMECO) Program",
+    "Accreditation ID": 1403900355,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Program Name": "Oklahoma State University Center for Health Sciences Program  Osteopathic Recognized!",
+    "Accreditation ID": 1403900353,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Program Name": "University of Oklahoma School of Community Medicine (Tulsa) Program",
+    "Accreditation ID": 1403921352,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oregon",
+    "City": "Corvallis",
+    "Program Name": "Samaritan Health Services - Corvallis Program",
+    "Accreditation ID": 1404000358,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oregon",
+    "City": "Hillsboro",
+    "Program Name": "Oregon Health & Science University (OHSU Health)/Hillsboro Medical Center Program",
+    "Accreditation ID": 1404000359,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oregon",
+    "City": "Portland",
+    "Program Name": "Legacy Health/Emanuel Medical Center Program",
+    "Accreditation ID": 1404011353,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oregon",
+    "City": "Portland",
+    "Program Name": "Oregon Health and Science University (OHSU Health) Program",
+    "Accreditation ID": 1404031357,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oregon",
+    "City": "Portland",
+    "Program Name": "Providence Health & Services - Oregon/Providence Medical Center Program",
+    "Accreditation ID": 1404031355,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Oregon",
+    "City": "Portland",
+    "Program Name": "Providence Health & Services - Oregon/St Vincent Hospital and Medical Center Program",
+    "Accreditation ID": 1404031356,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Abington",
+    "Program Name": "Abington Memorial Hospital Program",
+    "Accreditation ID": 1404112358,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Allentown",
+    "Program Name": "Lehigh Valley Health Network Program",
+    "Accreditation ID": 1404121359,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Bethlehem",
+    "Program Name": "St Luke's University Hospital Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404131360,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Bristol",
+    "Program Name": "New York Medical College/Lower Bucks Hospital Program",
+    "Accreditation ID": 1404100909,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Corry",
+    "Program Name": "Corry Program",
+    "Accreditation ID": 1404100003,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Danville",
+    "Program Name": "Geisinger Health System (Danville) Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404111362,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Darby",
+    "Program Name": "Mercy Catholic Medical Center Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404111375,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "East Norriton",
+    "Program Name": "Jefferson Health Medical Education/Jefferson Einstein Montgomery Hospital Program",
+    "Accreditation ID": 1404100913,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Easton",
+    "Program Name": "St Luke's University Hospital/Easton Hospital Program",
+    "Accreditation ID": 1404111363,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Easton",
+    "Program Name": "St Luke`s Hospital – Anderson Campus Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404100910,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Harrisburg",
+    "Program Name": "UPMC Medical Education (Harrisburg) Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404111365,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Hershey",
+    "Program Name": "Penn State Milton S Hershey Medical Center Program",
+    "Accreditation ID": 1404111366,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Johnstown",
+    "Program Name": "Conemaugh Memorial Medical Center Program",
+    "Accreditation ID": 1404131367,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Langhorne",
+    "Program Name": "St. Mary Medical Center Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404100907,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Lititz",
+    "Program Name": "UPMC Medical Education/Lititz Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404100901,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "McKeesport",
+    "Program Name": "UPMC Medical Education/McKeesport Hospital Program",
+    "Accreditation ID": 1404121368,
+    "Status": "Not Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Phenixville",
+    "Program Name": "Tower Health/Phoenixville Hospital Program",
+    "Accreditation ID": 1404100001,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Phila",
+    "Program Name": "Philadelphia College of Osteopathic Medicine Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404100902,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Philadelphia",
+    "Program Name": "Jefferson Health Medical Education/Jefferson Einstein Philadelphia Hospital Preliminary Program",
+    "Accreditation ID": 1404111369,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Philadelphia",
+    "Program Name": "Jefferson Health Medical Education/Jefferson Einstein Philadelphia Hospital Program",
+    "Accreditation ID": 1404111369,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Philadelphia",
+    "Program Name": "Jefferson Health Northeast Program",
+    "Accreditation ID": 1404100906,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Philadelphia",
+    "Program Name": "Nazareth Hospital Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404100903,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Philadelphia",
+    "Program Name": "Sidney Kimmel Medical College at Thomas Jefferson University/TJUH Program",
+    "Accreditation ID": 1404121379,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Philadelphia",
+    "Program Name": "Temple University Hospital Program",
+    "Accreditation ID": 1404121378,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Philadelphia",
+    "Program Name": "University of Pennsylvania Health System Program",
+    "Accreditation ID": 1404121380,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Philadelphia",
+    "Program Name": "University of Pennsylvania Health System/Pennsylvania Hospital Program",
+    "Accreditation ID": 1404111376,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pittsburgh",
+    "Program Name": "Allegheny Health Network Medical Education Consortium (AGH) Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404111381,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pittsburgh",
+    "Program Name": "St. Clair Health Graduate Medical Education Program",
+    "Accreditation ID": 1404100004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pittsburgh",
+    "Program Name": "UPMC Medical Education Program",
+    "Accreditation ID": 1404121504,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pittsburgh",
+    "Program Name": "UPMC Medical Education/Mercy Program",
+    "Accreditation ID": 1404111385,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Sayre",
+    "Program Name": "Robert Packer Hospital/Guthrie Program",
+    "Accreditation ID": 1404112389,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Scranton",
+    "Program Name": "Wright Center for Graduate Medical Education Program A",
+    "Accreditation ID": 1404121390,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "West Reading",
+    "Program Name": "Tower Health Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404121388,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Wilkes Barre",
+    "Program Name": "Geisinger Health System (Wilkes-Barre) Program",
+    "Accreditation ID": 1404100912,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Wynnewood",
+    "Program Name": "Main Line Health System/Lankenau Medical Center Program",
+    "Accreditation ID": 1404111373,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "York",
+    "Program Name": "Wellspan Health/York Hospital Program",
+    "Accreditation ID": 1404111392,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "Arecibo",
+    "Program Name": "Universidad Central del Caribe School of Medicine (Cayetano Coll & Toste Hospital) Program",
+    "Accreditation ID": 1404200002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "Bayamon",
+    "Program Name": "Universidad Central del Caribe Program",
+    "Accreditation ID": 1404212452,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "Cayey",
+    "Program Name": "Centro Medico Menonita Cayey Program",
+    "Accreditation ID": 1404200001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "Mayaguez",
+    "Program Name": "Ramon Betances Hospital-Mayaguez Medical Center/Ponce School of Medicine Consortium Program",
+    "Accreditation ID": 1404231525,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "Ponce",
+    "Program Name": "Damas Hospital Program",
+    "Accreditation ID": 1404211453,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "Ponce",
+    "Program Name": "Hospital Episcopal San Lucas/Ponce School of Medicine Program",
+    "Accreditation ID": 1404211395,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "San German",
+    "Program Name": "Hospital de la Concepcion Program",
+    "Accreditation ID": 1404221488,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "San Juan",
+    "Program Name": "San Juan City Hospital Program",
+    "Accreditation ID": 1404211396,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "San Juan",
+    "Program Name": "University of Puerto Rico Program",
+    "Accreditation ID": 1404221397,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Puerto Rico",
+    "City": "San Juan",
+    "Program Name": "VA Caribbean Healthcare System Program",
+    "Accreditation ID": 1404231398,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Providence",
+    "Program Name": "Rhode Island Hospital/Brown University Health Program",
+    "Accreditation ID": 1404311400,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Providence",
+    "Program Name": "Roger Williams Medical Center Program",
+    "Accreditation ID": 1404331401,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Warwick",
+    "Program Name": "Kent Hospital/Brown University Program",
+    "Accreditation ID": 1404300474,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Woonsocket",
+    "Program Name": "New York Medical College/Landmark Medical Center Program",
+    "Accreditation ID": 1404300001,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "Aiken",
+    "Program Name": "Aiken Regional Medical Centers Program",
+    "Accreditation ID": 1404500001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "Charleston",
+    "Program Name": "Medical University of South Carolina Program",
+    "Accreditation ID": 1404521403,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "Columbia",
+    "Program Name": "Prisma Health/University of South Carolina SOM Columbia (Columbia) Program",
+    "Accreditation ID": 1404521404,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "Florence",
+    "Program Name": "McLeod Regional Medical Center Program  New Program!",
+    "Accreditation ID": 1404500007,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "Florence",
+    "Program Name": "Medical University of South Carolina Regional Network (Florence) Program",
+    "Accreditation ID": 1404500002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "Greenville",
+    "Program Name": "Bon Secours St. Francis Program",
+    "Accreditation ID": 1404500004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "Greenville",
+    "Program Name": "Prisma Health/University of South Carolina SOM Greenville (Greenville) Program",
+    "Accreditation ID": 1404511405,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "Lancaster",
+    "Program Name": "Medical University of South Carolina Regional Network (Lancaster) Program",
+    "Accreditation ID": 1404500003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "Myrtle Beach",
+    "Program Name": "HCA Healthcare/Mercer University School of Medicine/Grand Strand Medical Center Program",
+    "Accreditation ID": 1404500406,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Carolina",
+    "City": "North Charleston",
+    "Program Name": "HCA Healthcare/Mercer University School of Medicine/Trident Medical Center Program",
+    "Accreditation ID": 1404500407,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "South Dakota",
+    "City": "Sioux Falls",
+    "Program Name": "University of South Dakota Program",
+    "Accreditation ID": 1404621406,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Chattanooga",
+    "Program Name": "University of Tennessee College of Medicine at Chattanooga Program",
+    "Accreditation ID": 1404711407,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Johnson City",
+    "Program Name": "East Tennessee State University/Quillen College of Medicine Program",
+    "Accreditation ID": 1404721408,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Knoxville",
+    "Program Name": "University of Tennessee Medical Center at Knoxville Program",
+    "Accreditation ID": 1404711409,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Memphis",
+    "Program Name": "Methodist Healthcare - Memphis Hospitals Program",
+    "Accreditation ID": 1404700001,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Memphis",
+    "Program Name": "University of Tennessee Program",
+    "Accreditation ID": 1404721412,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Nashville",
+    "Program Name": "HCA Healthcare/TriStar Nashville Program",
+    "Accreditation ID": 1404700479,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Nashville",
+    "Program Name": "Meharry Medical College Program",
+    "Accreditation ID": 1404711413,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Nashville",
+    "Program Name": "University of Tennessee (Nashville) Program",
+    "Accreditation ID": 1404721478,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Nashville",
+    "Program Name": "Vanderbilt University Medical Center Program",
+    "Accreditation ID": 1404731414,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Powell",
+    "Program Name": "Health Education Services/North Knoxville Medical Center Program",
+    "Accreditation ID": 1404700003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Amarillo",
+    "Program Name": "Texas Tech University (Amarillo) Program",
+    "Accreditation ID": 1404821477,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Arlington",
+    "Program Name": "HCA Medical City Healthcare GME (Arlington) Program  Osteopathic Recognized!",
+    "Accreditation ID": 1404800907,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Austin",
+    "Program Name": "University of Texas at Austin Dell Medical School Program",
+    "Accreditation ID": 1404812415,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Beaumont",
+    "Program Name": "Baptist Hospitals of Southeast Texas Program",
+    "Accreditation ID": 1404800001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Bedford",
+    "Program Name": "Texas Health Resources (Bedford/Denton) Program",
+    "Accreditation ID": 1404800002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Corpus Christi",
+    "Program Name": "HCA Healthcare Corpus Christi Medical Center - Bay Area Program",
+    "Accreditation ID": 1404800892,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas",
+    "Program Name": "Baylor University Medical Center Program",
+    "Accreditation ID": 1404831416,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas",
+    "Program Name": "Methodist Health System Dallas Program",
+    "Accreditation ID": 1404812417,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas",
+    "Program Name": "Texas Health Resources (Dallas) Program",
+    "Accreditation ID": 1404811420,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas",
+    "Program Name": "University of Texas Southwestern Medical Center Program",
+    "Accreditation ID": 1404821419,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Edinburg",
+    "Program Name": "Doctors Hospital at Renaissance, Ltd. Program",
+    "Accreditation ID": 1404800010,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "El Paso",
+    "Program Name": "HCA Healthcare Las Palmas Del Sol Program",
+    "Accreditation ID": 1404800900,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "El Paso",
+    "Program Name": "Texas Tech University HSC El Paso Program",
+    "Accreditation ID": 1404811424,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "El Paso",
+    "Program Name": "Texas Tech University HSC El Paso/Hospitals of Providence Transmountain Campus Program",
+    "Accreditation ID": 1404800905,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "FORT WORTH",
+    "Program Name": "Texas Health Resources/Harris Methodist Hospital Fort Worth Program",
+    "Accreditation ID": 1404800004,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Fort Worth",
+    "Program Name": "Baylor All Saints Medical Center Fort Worth Program",
+    "Accreditation ID": 1404800908,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Fort Worth",
+    "Program Name": "HCA Medical City Healthcare GME (Fort Worth) Program",
+    "Accreditation ID": 1404800894,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Ft. Bliss",
+    "Program Name": "William Beaumont Army Medical Center Program",
+    "Accreditation ID": 1404812008,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Galveston",
+    "Program Name": "University of Texas Medical Branch Hospitals Program",
+    "Accreditation ID": 1404821421,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Greenville",
+    "Program Name": "Arkansas College of Osteopathic Medicine Program",
+    "Accreditation ID": 1404800014,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Harlingen",
+    "Program Name": "University of Texas RGV (VBMC) Program",
+    "Accreditation ID": 1404821524,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Harlingen",
+    "Program Name": "Prime South GME Consortium/Harlingen Medical Center Program",
+    "Accreditation ID": 1404800012,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Program Name": "Baylor College of Medicine Program",
+    "Accreditation ID": 1404821422,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Program Name": "Houston Methodist Hospital (Medical Center) Program",
+    "Accreditation ID": 1404813534,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Program Name": "University of Texas Health Science Center at Houston Program",
+    "Accreditation ID": 1404831423,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Kingwood",
+    "Program Name": "HCA Houston Healthcare (Kingwood)/University of Houston Program",
+    "Accreditation ID": 1404800902,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Laredo",
+    "Program Name": "Texas Institute for Graduate Medical Education and Research (TIGMER) Laredo Program",
+    "Accreditation ID": 1404800898,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Longview",
+    "Program Name": "CHRISTUS Health Program",
+    "Accreditation ID": 1404800890,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Lubbock",
+    "Program Name": "Texas Tech University Health Sciences Center at Lubbock Program",
+    "Accreditation ID": 1404821459,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "McAllen",
+    "Program Name": "South Texas Health System GME Consortium Program",
+    "Accreditation ID": 1404800015,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "McAllen",
+    "Program Name": "University of Texas RGV (HCA) Program",
+    "Accreditation ID": 1404800005,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Odessa",
+    "Program Name": "Texas Tech University (Permian Basin) Program",
+    "Accreditation ID": 1404821519,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Paris",
+    "Program Name": "Texas College of Osteopathic Medicine Program",
+    "Accreditation ID": 1404800006,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Plano",
+    "Program Name": "Texas Health Resources/Presbyterian Hospital of Plano Program",
+    "Accreditation ID": 1404800007,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Round Rock",
+    "Program Name": "Baylor Scott and White Medical Center - Round Rock Program",
+    "Accreditation ID": 1404800895,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "San Angelo",
+    "Program Name": "Shannon Medical Center Program  New Program!",
+    "Accreditation ID": 1404800019,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio",
+    "Program Name": "Methodist Healthcare System of San Antonio Program",
+    "Accreditation ID": 1404800008,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio",
+    "Program Name": "Texas Institute for Graduate Medical Education and Research (TIGMER) Program",
+    "Accreditation ID": 1404800904,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio",
+    "Program Name": "University of Texas Health Science Center San Antonio Joe and Teresa Lozano Long School of Medicine Program",
+    "Accreditation ID": 1404821425,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Temple",
+    "Program Name": "Baylor Scott & White Medical Center - Baylor College of Medicine (Temple) Program",
+    "Accreditation ID": 1404821426,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "The Woodlands",
+    "Program Name": "Houston Methodist (The Woodlands) Program",
+    "Accreditation ID": 1404800003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Tyler",
+    "Program Name": "University of Texas Health Science Center at Tyler Program",
+    "Accreditation ID": 1404800903,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Webster",
+    "Program Name": "HCA Houston Healthcare/University of Houston (Clear Lake) Program",
+    "Accreditation ID": 1404800013,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Weslaco",
+    "Program Name": "Prime South GME Consortium Program  New Program!",
+    "Accreditation ID": 1404800017,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Texas",
+    "City": "Weslaco",
+    "Program Name": "University of Texas RGV (Knapp) Program",
+    "Accreditation ID": 1404800906,
+    "Status": "Not Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Utah",
+    "City": "Salt Lake City",
+    "Program Name": "University of Utah Health Program",
+    "Accreditation ID": 1404921427,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Vermont",
+    "City": "Burlington",
+    "Program Name": "University of Vermont Medical Center Program",
+    "Accreditation ID": 1405021429,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Abingdon",
+    "Program Name": "Johnston Memorial Hospital Program",
+    "Accreditation ID": 1405100898,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Blacksburg",
+    "Program Name": "HCA Healthcare LewisGale Hospital-Montgomery/VCOM Program",
+    "Accreditation ID": 1405100900,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Charlottesville",
+    "Program Name": "University of Virginia Medical Center Program",
+    "Accreditation ID": 1405121430,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Danville",
+    "Program Name": "Sovah Health-Danville Program",
+    "Accreditation ID": 1405100899,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Falls Church",
+    "Program Name": "Inova Fairfax Medical Campus Program",
+    "Accreditation ID": 1405100435,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Fishersville",
+    "Program Name": "Augusta Health, Inc Program",
+    "Accreditation ID": 1405100001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Fredericksburg",
+    "Program Name": "Mary Washington Healthcare Program",
+    "Accreditation ID": 1405100002,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Newport News",
+    "Program Name": "Riverside Regional Medical Center Program",
+    "Accreditation ID": 1405100003,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Norfolk",
+    "Program Name": "Old Dominion University Program",
+    "Accreditation ID": 1405121432,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Norton",
+    "Program Name": "Wellmont Health System/Norton Community Hospital Program",
+    "Accreditation ID": 1405100437,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Richmond",
+    "Program Name": "Virginia Commonwealth University Health System Program",
+    "Accreditation ID": 1405121433,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Roanoke",
+    "Program Name": "Carilion Clinic-Virginia Tech Carilion School of Medicine Program",
+    "Accreditation ID": 1405131431,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Virginia",
+    "City": "Salem",
+    "Program Name": "HCA Healthcare LewisGale Medical Center Program",
+    "Accreditation ID": 1405100436,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Washington",
+    "City": "Everett",
+    "Program Name": "Washington State University College of Medicine Program",
+    "Accreditation ID": 1405400442,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Washington",
+    "City": "Kennewick",
+    "Program Name": "Trios Health Program",
+    "Accreditation ID": 1405400440,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Washington",
+    "City": "Mount Vernon",
+    "Program Name": "Skagit Regional Health Program",
+    "Accreditation ID": 1405400439,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle",
+    "Program Name": "University of Washington Program",
+    "Accreditation ID": 1405421434,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle",
+    "Program Name": "University of Washington School of Medicine (Soldotna) Program",
+    "Accreditation ID": 1400200001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle",
+    "Program Name": "Virginia Mason Franciscan Health Program",
+    "Accreditation ID": 1405412435,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Washington",
+    "City": "Spokane",
+    "Program Name": "Spokane Teaching Health Center Program",
+    "Accreditation ID": 1405431436,
+    "Status": "Unregistered",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Washington",
+    "City": "Tacoma",
+    "Program Name": "Virginia Mason Franciscan Health/St Joseph’s Hospital Program",
+    "Accreditation ID": 1405400001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Washington",
+    "City": "Vancouver",
+    "Program Name": "Legacy Health/Salmon Creek Medical Center Program",
+    "Accreditation ID": 1405400441,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "West Virginia",
+    "City": "Charleston",
+    "Program Name": "Charleston Area Medical Center/CAMC Institute for Academic Medicine Program",
+    "Accreditation ID": 1405511438,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "West Virginia",
+    "City": "Huntington",
+    "Program Name": "Marshall University School of Medicine Program",
+    "Accreditation ID": 1405521439,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "West Virginia",
+    "City": "Martinsburg",
+    "Program Name": "West Virginia University School of Medicine Program",
+    "Accreditation ID": 1405500001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "West Virginia",
+    "City": "Morgantown",
+    "Program Name": "West Virginia University Program",
+    "Accreditation ID": 1405511440,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "West Virginia",
+    "City": "Parkersburg",
+    "Program Name": "West Virginia University School of Medicine/Camden-Clark Program",
+    "Accreditation ID": 1405500443,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "La Crosse",
+    "Program Name": "Gundersen Lutheran Medical Foundation Program",
+    "Accreditation ID": 1405612442,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Madison",
+    "Program Name": "University of Wisconsin Hospitals and Clinics Program",
+    "Accreditation ID": 1405621443,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Marshfield",
+    "Program Name": "Marshfield Clinic Program",
+    "Accreditation ID": 1405631444,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Milwaukee",
+    "Program Name": "Ascension St. Vincent Hospital Indianapolis (Milwaukee) Program",
+    "Accreditation ID": 1405600001,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Milwaukee",
+    "Program Name": "Aurora Health Care Program",
+    "Accreditation ID": 1405621446,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Milwaukee",
+    "Program Name": "Medical College of Wisconsin Affiliated Hospitals Program",
+    "Accreditation ID": 1405631445,
+    "Status": "Participating",
+    "Specialization": "Internal Medicine"
+  }
+]

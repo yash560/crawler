@@ -28,6 +28,10 @@ export const crawlProgramPages = async (id) => {
     const page = await browser.newPage();
 
     try {
+      await page.setViewport({
+        width: 1280,
+        height: 800,
+      });
       await page.goto(url, { waitUntil: "load", timeout: 60000 });
       console.log(`✅ Page loaded: ${url}`);
 
@@ -43,14 +47,19 @@ export const crawlProgramPages = async (id) => {
 
       // Extract charts
       console.log("   📊 Extracting chart data...");
-      const chartData = await extractCharts(page);
+      const chartData = await extractFeatureChart(page);
       console.log(`   ✅ Found ${chartData?.length || 0} charts`);
+
+      console.log("   📊 Extracting chart data...");
+      const chartDatas = await extractProgramWorkCharts(page);
+      console.log(`   ✅ Found ${chartDatas?.length || 0} charts`);
 
       // Push all
       allTables.push(
         ...(tables || []),
         ...(extraData || []),
-        ...(chartData || [])
+        ...(chartData || []),
+        ...(chartDatas || [])
       );
     } catch (err) {
       console.error(`❌ Error scraping ${url}:`, err.message);
@@ -182,7 +191,7 @@ const extractExtraData = async (page) => {
   }
 };
 
-const extractCharts = async (page) => {
+const extractFeatureChart = async (page) => {
   const chartIds = ["#chart", "#chart2"];
   const tables = [];
 
@@ -224,9 +233,51 @@ const extractCharts = async (page) => {
 
       if (chartData) tables.push(chartData);
     } catch (err) {
-      console.error(`❌ extractCharts error (${chartId}):`, err.message);
+      console.error(`❌ extractFeatureChart error (${chartId}):`, err.message);
     }
   }
 
   return tables;
+};
+
+const extractProgramWorkCharts = async (page) => {
+  try {
+    // Find chart container whose ID starts with "apexcharts"
+    const chartID = await page.evaluate(() => {
+      const chartEl = document.querySelector('[id^="apexcharts"]');
+      return chartEl ? chartEl.id : null;
+    });
+
+    if (!chartID) {
+      throw new Error(
+        "Chart container with ID starting with 'apexcharts' not found."
+      );
+    }
+
+    const chartSelector = `#${chartID}`;
+    await page.waitForSelector(chartSelector, { timeout: 10000 });
+
+    const data = await page.evaluate((chartID) => {
+      const chartEl = document.querySelector(`#${chartID}`);
+      if (!chartEl) return [];
+
+      const yAxisLabels = Array.from(
+        chartEl.querySelectorAll(".apexcharts-yaxis-label")
+      ).map((el) => el.textContent.trim());
+
+      const values = Array.from(
+        chartEl.querySelectorAll(".apexcharts-datalabel")
+      ).map((el) => parseInt(el.textContent.trim(), 10));
+
+      return yAxisLabels.map((label, index) => ({
+        year: label,
+        positions: values[index] || 0,
+      }));
+    }, chartID);
+
+    return data;
+  } catch (err) {
+    console.error("❌ extractProgramWorkCharts error:", err.message);
+    return null;
+  }
 };
